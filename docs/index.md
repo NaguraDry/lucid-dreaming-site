@@ -15,26 +15,34 @@
 
 体験談やコミュニティに蓄積された実践も、知りたいことを見つける大切な入口です。研究で確かめられたこと、経験として伝えられていること、まだ分からないことを分けながら、体験を楽しみ、理解するために役立つものを探していきます。そこから得られるものがあるのではないか。それが、このサイトの出発点です。
 
+## 再現性の高い技法をまとめる
+
+明晰夢の技法と聞くと、離脱とは別の方法を想像するかもしれません。けれども、「最近幽体離脱にはまった　まとめ」で親しまれてきた二度寝法、起きたら動かない法、１氏の方法、金縛り経由などの手法は、海外で明晰夢の技法として整理・共有されてきた方法と非常によく似ています。[^intro-methods-jp][^intro-methods-overseas]
+
+たとえば、二度寝法と [WBTB](techniques/wbtb.html) は、いったん目覚めて寝直す点で、起きたら動かない法と [DEILD](techniques/deild.html) は、覚醒直後に目を閉じたまま静かにしている点で共通しています。指マン法と [FILD](techniques/fild.html) は小さな指の動きを使う点で類似しています。[^intro-methods-jp][^intro-methods-overseas] １氏の方法にはイメージを使う [WILD](techniques/wild.html) 系の実践との広い共通点があり、[金縛りから夢へ移る実践](techniques/sleep-paralysis.html)も海外で紹介されています。（ただし、金縛りから明晰夢に入る手法は成功率が低いとされています）[^intro-methods-imagery]
+
+こうした共通点は、なじみのある実践を別の言葉や手順から見直す手掛かりになります。コミュニティで整理・共有されていることと、科学的に効果が確かめられていることは分けながら、研究と実践の両方をたどり、より再現性の高い方法を探してまとめていきます。[^tan-2023] それぞれの手順や研究で分かっていることは、[技法一覧](techniques/index.html)から各ページで読めます。
+
 ## 離脱を、明晰夢との関わりから読み解く
 
 この資料では、「幽体離脱」と呼ばれる体験のうち、睡眠に関連して起こるものに目を向けます。身体から抜け出すような感覚や、普段の夢のイメージには収まらないほど鮮烈に感じる体験を、明晰夢との関わりから読み解いていきたいと考えています。
 
-ここで明晰夢という言葉が出てきて、意外に感じる方もいるかもしれません。明晰夢の中心にあるのは、夢を体験している最中に「これは夢だ」と自覚していることです。けれども研究をたどると、その入り方は、夢の途中で気づくものだけではありません。
+では、こうした離脱体験と明晰夢は、どのように関わるのでしょうか。明晰夢の中心にあるのは、夢を体験している最中に「これは夢だ」と自覚していることです。けれども研究をたどると、その入り方は、夢の途中で気づくものだけではありません。
 
 - **夢の途中で気づく。** すでに見ている夢の中で、夢だと気づく入り方です。
 - **覚醒から自覚を保って夢へ移る。** [WILD](techniques/wild.html)（wake-initiated lucid dream）と呼ばれる入り方です。研究では、いったん覚醒したあと、夢に入る過程で自覚が保たれた例も記録されています。[^intro-laberge]
 
 眼球合図で確認した明晰夢の記録には、寝床にいる感覚や、体から抜け出すような感覚を伴う報告もあるのです。[^intro-levitan]
 
-一方、眠りかけに像や音が現れることや、起きたつもりでいる夢（偽覚醒）だけで、明晰夢と決まるわけではありません。夢だと自覚していたかどうかと、そのときの睡眠・覚醒の状態は、分けて考える必要があります。[^intro-mainieri]
+夢だと自覚していたかどうかと、そのときの睡眠・覚醒の状態は、分けて考える必要があります。[^intro-mainieri]
 
-「体外離脱体験（OBE）」という語も、科学研究では身体の外にいるように感じる体験を指し、魂が実際に身体を離れたという主張とは区別されます。[^intro-blanke] 離脱のすべてを明晰夢と言い換えるためではなく、両者が重なる部分に、体験を理解する手掛かりがあるのではないか。その可能性を探っていきます。
+明晰夢には離脱とよく似た体験があり、離脱の体験談にも明晰夢と重なるところがあります。[^intro-levitan][^intro-community] 両者の共通点を手掛かりに、体験を読み解いていきます。
 
 ## リアルさには幅がある
 
 離脱したら、必ず現実そっくりの世界が広がるわけではありません。「最近幽体離脱にはまった　まとめ」にも、視界が暗い、ぼやける、すぐに戻ってしまうといった状態を扱う説明があります。強い臨場感は、うまくいったときに報告される体験の一つです。[^intro-variation]
 
-**夢だと分かることと、感覚が鮮明なことは分けて考えます。** 自由に操作できることまでが、明晰夢の必須条件ではありません。研究でも、夢だという洞察と制御などは区別して検討されています。[^intro-voss]
+明晰夢とは、夢を見ながら夢だと気づいていることです。[^intro-voss] このサイトでは、その気づきだけでなく、現実のような手触りや、自分の意思で歩き回り、夢の中の相手と過ごす体験にも目を向けます。夢だと気づいたからといって、いつも鮮明に感じたり、何でも思いどおりにできたりするわけではありません。
 
 体験を読むときは、夢だと自覚していたか、感覚がどれほど鮮明だったか、どれほど思いどおりに行動できたかを、それぞれ見ていきます。鮮明でない体験を、一律に失敗と決める必要はありません。
 
@@ -105,8 +113,6 @@
 
 [^intro-mainieri]: Greta Mainieri ほか (2021). [Are sleep paralysis and false awakenings different from REM sleep and from lucid REM sleep? A spectral EEG analysis ↗](<https://pmc.ncbi.nlm.nih.gov/articles/PMC8020694/>){:target="_blank" rel="noopener noreferrer" aria-label="Are sleep paralysis and false awakenings different from REM sleep and from lucid REM sleep? A spectral EEG analysis（新しいタブで開きます）"}。査読原著論文。金縛り・偽覚醒・明晰 REM 睡眠などを比較した小規模な睡眠実験。偽覚醒の記録は2例で、一般的な頻度を示す研究ではありません。
 
-[^intro-blanke]: Olaf Blanke ほか (2004). [Out-of-body experience and autoscopy of neurological origin ↗](<https://doi.org/10.1093/brain/awh040>){:target="_blank" rel="noopener noreferrer" aria-label="Out-of-body experience and autoscopy of neurological origin（新しいタブで開きます）"}。査読原著論文。神経学的症例で、身体の外にいるという体験を記述しています。睡眠関連の離脱すべてを説明する研究ではありません。
-
 [^intro-variation]: 「最近幽体離脱にはまった まとめ」 [小技 ↗](<https://w.atwiki.jp/wiki13_ridatu/pages/461.html>){:target="_blank" rel="noopener noreferrer" aria-label="小技（新しいタブで開きます）"}。「名倉の安定」「視界を確保する方法」など、体験が不安定・不鮮明な場合も扱っています。技法の有効性を検証した研究ではありません。
 
 [^intro-voss]: Ursula Voss ほか (2013). [Measuring consciousness in dreams ↗](<https://pubmed.ncbi.nlm.nih.gov/23220345/>){:target="_blank" rel="noopener noreferrer" aria-label="Measuring consciousness in dreams（新しいタブで開きます）"}。査読原著論文。夢だという洞察と制御などを分けて検討しています。研究の realism 尺度を、感覚の鮮明さそのものと同一視してはいません。
@@ -114,3 +120,9 @@
 [^intro-partners]: 「最近幽体離脱にはまった まとめ」[パートナーについて ↗](<https://w.atwiki.jp/wiki13_ridatu/pages/21.html>){:target="_blank" rel="noopener noreferrer" aria-label="パートナーについて（新しいタブで開きます）"}。パートナーやガイドについての説明と体験談を参照しています。
 
 [^intro-guides]: DreamViews [Dream Guide ↗](<https://www.dreamviews.com/wiki/Dream-Guide>){:target="_blank" rel="noopener noreferrer" aria-label="Dream Guide（新しいタブで開きます）"}。夢の中で助けになる人物という用語説明。VIP の概念と同じものだと確定したり、実践の効果を示したりする資料ではありません。
+
+[^intro-methods-jp]: 「最近幽体離脱にはまった　まとめ」[色々な離脱の仕方まとめ ↗](<https://w.atwiki.jp/wiki13_ridatu/pages/17.html>){:target="_blank" rel="noopener noreferrer" aria-label="色々な離脱の仕方まとめ（新しいタブで開きます）"}（二度寝法・指マン法）、[色々な離脱法４ ↗](<https://w.atwiki.jp/wiki13_ridatu/pages/411.html>){:target="_blank" rel="noopener noreferrer" aria-label="色々な離脱法４（新しいタブで開きます）"}（起きたら動かない法）。コミュニティに蓄積された実践の説明。指マン法は1本の指で布団をなで、その後にローリングする手順で、FILD と同一の手順ではありません。
+
+[^intro-methods-overseas]: DreamViews [WBTB Tutorial ↗](<https://www.dreamviews.com/wiki/WBTB-Tutorial>){:target="_blank" rel="noopener noreferrer" aria-label="WBTB Tutorial（新しいタブで開きます）"}、Klace (2007) [Dream Exit Induced Lucid Dream (DEILD) ↗](<https://www.dreamviews.com/induction-techniques/32682-dream-exit-induced-lucid-dream-deild.html>){:target="_blank" rel="noopener noreferrer" aria-label="Dream Exit Induced Lucid Dream (DEILD)（新しいタブで開きます）"}、Hargarts (2004) [Finger Induced Lucid Dream (FILD) ↗](<https://www.dreamviews.com/induction-techniques/4779-finger-induced-lucid-dream-fild.html>){:target="_blank" rel="noopener noreferrer" aria-label="Finger Induced Lucid Dream (FILD)（新しいタブで開きます）"}。コミュニティの解説・原投稿。FILD は2本の指を交互に小さく動かし、その後に夢かどうか確認する説明です。本文では手順の共通点を比較しており、伝播の経路や効果の同等性を示す資料としては扱っていません。
+
+[^intro-methods-imagery]: 「最近幽体離脱にはまった　まとめ」[１氏の方法 ↗](<https://w.atwiki.jp/wiki13_ridatu/pages/9.html>){:target="_blank" rel="noopener noreferrer" aria-label="１氏の方法（新しいタブで開きます）"}、[金縛り解除法 ↗](<https://w.atwiki.jp/wiki13_ridatu/pages/325.html>){:target="_blank" rel="noopener noreferrer" aria-label="金縛り解除法（新しいタブで開きます）"}、DreamViews [Mancon's Simple Visualization WILD Technique ↗](<https://www.dreamviews.com/wake-initiated-lucid-dreams-wild/128996-mancons-simple-visualization-wild-technique-print.html?pp=200>){:target="_blank" rel="noopener noreferrer" aria-label="Mancon's Simple Visualization WILD Technique（新しいタブで開きます）"}、LD4all [Sleep Paralysis article ↗](<https://community.ld4all.com/t/sleep-paralysis-article/40556>){:target="_blank" rel="noopener noreferrer" aria-label="Sleep Paralysis article（新しいタブで開きます）"}。いずれもコミュニティの実践説明。１氏の方法は上方に自分を想像してそこへ移るイメージを使うもので、WILD の特定手順や MILD・SSILD と同一視していません。金縛りを必須としない扱いは、本サイトの WILD の説明とも合わせています。
