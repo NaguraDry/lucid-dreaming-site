@@ -1,0 +1,11 @@
+title: 改めていま、幽体離脱をひもとく
+lang: ja
+theme: jekyll-theme-minimal
+markdown: kramdown
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+url: "https://naguradry.github.io"
+baseurl: "/lucid-dreaming-site"
