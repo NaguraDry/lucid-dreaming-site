@@ -7,122 +7,108 @@
 
 「最近幽体離脱にはまった　まとめ」などで、こうした体験に親しんできた方もいるでしょう。同まとめには、現実にいるような感覚や、自由に行動できる楽しさが語られています。[^intro-community] 初めて興味を持った方にも、これまで実践してきた方にも、新しい選択肢を見つけてもらえる資料を目指します。
 
-## この体験に、科学で向き合う
+空から街を眺める。気になる道の先へ歩いていく。誰かと景色を見たり、話したりして過ごす。派手な冒険でも、静かなひとときでも、自分がそこにいると感じながら関わることに、惹かれる方は多いのではないでしょうか。明晰夢に興味を持った方にも、離脱の体験を楽しんできた方にも、そんな時間に近づくための方法や実践を紹介していきます。
 
-鮮明な体験や、その中で感じた驚きを大切にしながら、どうすれば近づけるのか、そこで何が起きているのかを知りたい。**このサイトでは、その向き合い方の一つとして科学を選びました。**
+## 著者について
 
-ここで大切にするのは、観察や実験から得られた根拠を読み、説明や方法を確かめていくことです。睡眠と夢の研究を手掛かりにします。研究論文を尊重するとともに、どんな人が、どんな条件で試し、何を測ったのか、統計的にどこまで言えるのかも見ていきます。論文があるというだけで、根拠が強いと決めることはしません。
+名倉ドライといいます。離脱歴は15年以上。冒険やパートナーとの交流を楽しみ、その体験をブログに綴ってきました。
 
-体験談やコミュニティに蓄積された実践も、知りたいことを見つける大切な入口です。研究で確かめられたこと、経験として伝えられていること、まだ分からないことを分けながら、体験を楽しみ、理解するために役立つものを探していきます。そこから得られるものがあるのではないか。それが、このサイトの出発点です。
+一方で、こうした体験をもっと理解し、もっと多くの人が楽しめるようにならないか。そんな思いで、さまざまな離脱法を探ってきました。
+
+その中で、離脱コミュニティで少しずつ編み出されてきたと思っていた方法の多くが、海外で明晰夢の技法として紹介されているものと、とてもよく似ていることを知りました。そこには、詳しい手順や実践の工夫、研究データが豊富にありました。
+
+この発見を、離脱や明晰夢を楽しみたい人に届けたくて、このサイトを作っています。明晰夢の研究から得られる情報を中心に、科学的な観点から、目指す体験に近づく方法を紹介していきます。
+
+## 離脱と明晰夢の共通点
+
+明晰夢の研究を離脱の実践にも生かせると考えるのは、方法だけでなく、体験の内容にも共通点があるからです。
+
+### 幽体離脱とは？
+
+ここで紹介する幽体離脱は、「最近幽体離脱にはまった　まとめ」などで語られる、身体から抜け出したように感じ、自分の意思で動き回る体験です。[^intro-community]
+
+このサイトでは、幽体離脱を[脳内の体験として捉える立場](four-perspectives.html)から扱います。
+
+### 明晰夢とは？
+
+明晰夢は、夢の中で「これは夢だ」と自覚している夢です。夢の中を自分の意思で動き回る体験も含まれますが、すべてを思いどおりに操れることが条件ではありません。[^intro-voss]
+
+脳内の体験として捉える離脱と明晰夢には、体験の内容にもよく似たところがあります。自分の意思で動き回る体験に加え、金縛りを経る例や、偽覚醒（起きたつもりでもまだ夢の中にいること）についての報告も、両方に見られます。[^intro-terms][^intro-levitan][^intro-buzzi]
 
 ## 再現性の高い技法をまとめる
 
-明晰夢の技法と聞くと、離脱とは別の方法を想像するかもしれません。けれども、「最近幽体離脱にはまった　まとめ」で親しまれてきた二度寝法、起きたら動かない法、１氏の方法、金縛り経由などの手法は、海外で明晰夢の技法として整理・共有されてきた方法と非常によく似ています。[^intro-methods-jp][^intro-methods-overseas]
+体験だけでなく、そこへ至る方法にも共通点があります。「最近幽体離脱にはまった　まとめ」で親しまれてきた手法は、海外などで明晰夢の技法として整理・共有されてきた方法と非常によく似ています。[^intro-methods-jp][^intro-methods-overseas]
 
-たとえば、二度寝法と [WBTB](techniques/wbtb.html) は、いったん目覚めて寝直す点で、起きたら動かない法と [DEILD](techniques/deild.html) は、覚醒直後に目を閉じたまま静かにしている点で共通しています。指マン法と [FILD](techniques/fild.html) は小さな指の動きを使う点で類似しています。[^intro-methods-jp][^intro-methods-overseas] １氏の方法にはイメージを使う [WILD](techniques/wild.html) 系の実践との広い共通点があり、[金縛りから夢へ移る実践](techniques/sleep-paralysis.html)も海外で紹介されています。（ただし、金縛りから明晰夢に入る手法は成功率が低いとされています）[^intro-methods-imagery]
+共通点を表にすると、次のようになります。手順が完全に同じという意味ではありません。
 
-こうした共通点は、なじみのある実践を別の言葉や手順から見直す手掛かりになります。コミュニティで整理・共有されていることと、科学的に効果が確かめられていることは分けながら、研究と実践の両方をたどり、より再現性の高い方法を探してまとめていきます。[^tan-2023] それぞれの手順や研究で分かっていることは、[技法一覧](techniques/index.html)から各ページで読めます。
+| まとめでの呼び名 | 明晰夢側の呼び名 | 共通点・違い |
+| --- | --- | --- |
+| 二度寝法 | [WBTB](techniques/wbtb.html) | いったん目覚めて寝直す。 |
+| トイレマン法 | [WBTB](techniques/wbtb.html) | 途中で起きて寝直す機会を利用する点が共通。 |
+| 起きたら動かない法 | [DEILD](techniques/deild.html) | 覚醒直後に目を閉じたまま静かにしている。 |
+| 指マン法 | [FILD](techniques/fild.html) | 小さな指の動きを使う。指の本数や後の手順は異なる。[^intro-methods-jp][^intro-methods-overseas] |
+| １氏の方法 | イメージを使う [WILD](techniques/wild.html) 系 | イメージを使う実践として、広い共通点がある。 |
+| 金縛り経由 | [金縛りから明晰夢への実践](techniques/sleep-paralysis.html) | 金縛りから夢へ移る実践は、海外でも紹介されている。 |
 
-## 離脱を、明晰夢との関わりから読み解く
+（ただし、金縛りから明晰夢に入る手法は成功率が低いとされています）[^intro-methods-imagery]
 
-この資料では、「幽体離脱」と呼ばれる体験のうち、睡眠に関連して起こるものに目を向けます。身体から抜け出すような感覚や、普段の夢のイメージには収まらないほど鮮烈に感じる体験を、明晰夢との関わりから読み解いていきたいと考えています。
+各技法の手順や研究について興味を持たれた方は、[技法一覧](techniques/index.html)から確認いただけます。
 
-では、こうした離脱体験と明晰夢は、どのように関わるのでしょうか。明晰夢の中心にあるのは、夢を体験している最中に「これは夢だ」と自覚していることです。けれども研究をたどると、その入り方は、夢の途中で気づくものだけではありません。
+表にあるのは、なじみのある実践を別の説明からも見られる接点です。たとえば、二度寝の方法に関心があれば、[WBTB](techniques/wbtb.html) のページで、再び眠る前に何を行うのか、研究ではどのような条件で試されたのかを確認できます。覚めた直後の再入眠に関心があれば、[DEILD](techniques/deild.html) の原投稿にある手順を読めます。
 
-- **夢の途中で気づく。** すでに見ている夢の中で、夢だと気づく入り方です。
-- **覚醒から自覚を保って夢へ移る。** [WILD](techniques/wild.html)（wake-initiated lucid dream）と呼ばれる入り方です。研究では、いったん覚醒したあと、夢に入る過程で自覚が保たれた例も記録されています。[^intro-laberge]
+## このサイトで読めること
 
-眼球合図で確認した明晰夢の記録には、寝床にいる感覚や、体から抜け出すような感覚を伴う報告もあるのです。[^intro-levitan]
+### 具体的な技法と、効果について分かっていること
 
-夢だと自覚していたかどうかと、そのときの睡眠・覚醒の状態は、分けて考える必要があります。[^intro-mainieri]
+各技法のページでは、何をする方法なのか、どの順序で行うのかを説明します。考案者や実践者による説明と、研究で使われた手順に違いがある場合は、それぞれを示します。
 
-明晰夢には離脱とよく似た体験があり、離脱の体験談にも明晰夢と重なるところがあります。[^intro-levitan][^intro-community] 両者の共通点を手掛かりに、体験を読み解いていきます。
+対応表にない方法も紹介しています。[MILD](techniques/mild.html) は、次の夢で夢だと気づく意図を持ち、最近見た夢の中で気づく場面を想像する技法です。[SSILD](techniques/ssild.html) は、視覚・聴覚・身体感覚へ順に注意を向ける方法です。2020年の家庭研究では、どちらも途中で起きて寝直す WBTB と組み合わせて調べられました。[^aspy-2020]
 
-## リアルさには幅がある
+その研究では MILD と SSILD の成績に有意差は見られませんでしたが、誰にとっても同じ効果があると証明されたわけではありません。[^aspy-2020] 系統的レビューでは、MILD は比較的強い裏付けのある技法と評価されています。[^tan-2023] 各ページには、こうした結果とともに、研究で試された条件を載せています。
 
-離脱したら、必ず現実そっくりの世界が広がるわけではありません。「最近幽体離脱にはまった　まとめ」にも、視界が暗い、ぼやける、すぐに戻ってしまうといった状態を扱う説明があります。強い臨場感は、うまくいったときに報告される体験の一つです。[^intro-variation]
+明晰夢へ入る方法を探したい方には、手順を具体的に読めることが役立つでしょう。すでに実践している方は、自分が知っている説明と何が同じで何が違うか、研究では何が確かめられたかを確認できます。うまくいかなかった理由を一つに決めつけたり、練習を続ければ必ず成功すると約束したりはしません。
 
-明晰夢とは、夢を見ながら夢だと気づいていることです。[^intro-voss] このサイトでは、その気づきだけでなく、現実のような手触りや、自分の意思で歩き回り、夢の中の相手と過ごす体験にも目を向けます。夢だと気づいたからといって、いつも鮮明に感じたり、何でも思いどおりにできたりするわけではありません。
+### 実践の工夫と、体験の楽しみ方
 
-体験を読むときは、夢だと自覚していたか、感覚がどれほど鮮明だったか、どれほど思いどおりに行動できたかを、それぞれ見ていきます。鮮明でない体験を、一律に失敗と決める必要はありません。
+[夢日記](techniques/dream-journal.html)では、思い出した場面や人物、夢だと気づいたきっかけを記録する方法を紹介しています。記録した夢は、自分の体験を振り返るときや、MILDで場面を思い出すときにも使えます。[^aspy-2020] 記録を一定期間続けることを、ほかの技法へ進む条件にはしていません。
 
-## どんな体験を楽しみたいですか
+覚醒から明晰夢へ移る [WILD](techniques/wild.html) のページでは、イメージなどに注意を向ける実践を紹介しています。眠れないときや怖さがあるときの説明も、手順の近くに置いています。方法を試す際は、そのページの注意も合わせて確認してください。
 
-夢の内容を自由に変えることだけでなく、現実のような手触りや鮮明さ、夢の中の相手との交流を楽しみたい方に向けた[資料](for-vip-readers.html)も用意してあります。「最近幽体離脱にはまった　まとめ」にはパートナーやガイドの体験談があり、海外の DreamViews にも、夢の中で助けになる人物を指す dream guide という用語があります。[^intro-partners][^intro-guides] それぞれの呼び名や役割の違いを大切にしながら、楽しみ方の選択肢として紹介していきます。
+体験の楽しみは、夢の内容を大きく変えることだけではありません。景色を眺めたり、その場の感覚を味わったり、相手と言葉を交わしたりすることにも目を向けます。自分の意思で関わることと、場面や人物をすべて思いどおりに操れることは同じではありません。夢だという気づきと、内容の制御は研究でも区別されています。[^intro-voss]
 
-[「最近幽体離脱にはまった　まとめ」に親しんできた方へ](for-vip-readers.html)：なじみのある用語と、このサイトの言葉の対応はこちらにまとめています。
-
-## まず知っておくこと
-
-- **誰でも確実に誘発できる方法は確立していない。** 誘発法を検討した系統的レビューでも、研究方法や再現性の限界が指摘されている。[^stumbrys-2012][^tan-2023]
-- **研究の裏付けには差がある。** 根拠が限られる技法も掲載するが、効果が実証された手順と同じ扱いにはしない。[^tan-2023]
-- **成功しやすさに関連する傾向がある。** 2020年の家庭研究では、参加者の自己報告から、次の二つと明晰夢の報告の多さとの関連が示された。[^aspy-2020]
-  - 夢をよく思い出せること。
-  - 夜中にいったん起きて技法を行ったあと、10分以内に再び眠れたこと。
-
-  ただし、10分以内という区切りは探索的な分析によるもので、普段の寝つきや固定的な「向き不向き」を表す基準ではない。二つとも成功の必須条件ではなく、あくまでそうした傾向があったと知っておくとよい。[^aspy-2020]
+「最近幽体離脱にはまった　まとめ」には、パートナーやガイドをめぐる説明と体験談があります。[^intro-partners] 海外の DreamViews にも、夢の中で助けになる人物を指す dream guide という言葉があります。[^intro-guides] こうした交流に興味がある方には、[まとめに親しんできた方への案内](for-vip-readers.html)で、呼び名と文化を紹介しています。相手との交流を楽しみたいという関心を大切にし、それぞれの呼び名や役割の違いも残していきます。
 
 ## 読みたいところから
 
-夢の記録や睡眠のタイミング、明晰夢への入り方などを、[技法一覧](techniques/index.html)にまとめています。関心のある項目から、手順の出典と確かめられている範囲を読んでください。
-
-## 手順を読むときに
-
-- **どの版の手順か確認する。** 考案者の説明、研究で用いた手順、後から加えられた変法を混ぜない。
-- **条件を確かめる。** 中途覚醒後や仮眠で得られた結果を、そのまま最初の就寝時の成績には置き換えない。[^aspy-2020][^carr-2023]
-- **結果の単位を確かめる。** 参加者の割合、夜あたりの割合、眼球合図で確認した割合は別の指標。[^aspy-2017][^aspy-2020][^carr-2023]
-- **うまくいかない原因を決めつけない。** 関連が報告された指標だけから、個別の失敗理由や本人の努力不足を断定しない。
-
-## 睡眠への配慮
-
-- 355名が完了した短期の自己報告研究では、明晰夢の誘発成功と睡眠の質の悪化は関連しなかった。ただし、すべての練習法の負担や長期の安全性を保証する結果ではない。[^aspy-2020]
-- 睡眠時間を削ってまで実践しない。練習で眠れなくなったり、日中の生活に支障が出たりする場合は、継続を優先しない。
-- 金縛りでは恐怖や幻覚を伴うことがある。夢への移行を続ける義務はなく、すべての症状を無条件に安全とは判断しない。詳しくは[金縛りからの離脱](techniques/sleep-paralysis.html)を参照。[^jalal-2016]
-
-## 関連する質問
-
-- [FAQ](faq.html)
-
-## 根拠の読み方
-
-本文の番号から各ページ末尾の参考文献へ移動できる。研究論文、展望・仮説、書籍、コミュニティの経験則を区別する。出典があることと、そこで述べられた効果や機序が確立していることは同じではない。
+- **方法を選びたい方へ。** [技法一覧](techniques/index.html)から、具体的な手順と研究結果を読めます。次の夢で気づくことを狙う MILD、感覚に注意を向ける SSILD、覚醒から明晰夢への移行を扱う WILD などを紹介しています。
+- **なじみの実践を詳しく知りたい方へ。** 二度寝の話は [WBTB](techniques/wbtb.html)、覚めた直後の再入眠は [DEILD](techniques/deild.html)、小さな指の動きを使う方法は [FILD](techniques/fild.html) へ。原典の手順と、分かっている範囲を確認できます。
+- **夢の中の交流や用語が気になる方へ。** [「最近幽体離脱にはまった　まとめ」に親しんできた方へ](for-vip-readers.html)で、「名倉」などの呼び名や、パートナー・ガイドについて紹介しています。
+- **疑問から調べたい方へ。** [FAQ](faq.html)から、よくある質問を読めます。
 
 ## 参考文献
 
-外部の出典リンク（↗）は新しいタブで開きます。脚注末尾の戻りリンクで本文へ戻れます。
+外部の出典リンク（↗）は新しいタブで開きます。
 
-[^stumbrys-2012]: Tadas Stumbrys, Daniel Erlacher, Melanie Schädlich et al. (2012). [Induction of lucid dreams: A systematic review of evidence ↗](<https://doi.org/10.1016/j.concog.2012.07.003>){:target="_blank" rel="noopener noreferrer" aria-label="Induction of lucid dreams: A systematic review of evidence（新しいタブで開きます）"}. Consciousness and Cognition, 21(3), 1456–1475. 査読済み系統的レビュー（二次研究）。
+[^intro-community]: 「最近幽体離脱にはまった まとめ」 [離脱初心者Q&A ↗](<https://w.atwiki.jp/wiki13_ridatu/pages/339.html>){:target="_blank" rel="noopener noreferrer"}。コミュニティ資料。
 
-[^tan-2023]: Shuyue Tan, Jialin Fan (2023). [A systematic review of new empirical data on lucid dream induction techniques ↗](<https://doi.org/10.1111/jsr.13786>){:target="_blank" rel="noopener noreferrer" aria-label="A systematic review of new empirical data on lucid dream induction techniques（新しいタブで開きます）"}. Journal of Sleep Research, 32(3), e13786. Online first: 2022-11-21. 査読済み系統的レビュー（二次研究。メタ解析ではない）。
+[^intro-methods-jp]: 「最近幽体離脱にはまった　まとめ」[色々な離脱の仕方まとめ ↗](<https://w.atwiki.jp/wiki13_ridatu/pages/17.html>){:target="_blank" rel="noopener noreferrer"}（二度寝法・指マン法）、[色々な離脱法４ ↗](<https://w.atwiki.jp/wiki13_ridatu/pages/411.html>){:target="_blank" rel="noopener noreferrer"}（起きたら動かない法）。コミュニティの手順。
 
-[^aspy-2020]: Denholm J. Aspy (2020). [Findings From the International Lucid Dream Induction Study ↗](<https://doi.org/10.3389/fpsyg.2020.01746>){:target="_blank" rel="noopener noreferrer" aria-label="Findings From the International Lucid Dream Induction Study（新しいタブで開きます）"}. Frontiers in Psychology, 11, 1746. 査読原著論文。自宅での自己報告介入研究。
+[^intro-methods-overseas]: DreamViews [WBTB Tutorial ↗](<https://www.dreamviews.com/wiki/WBTB-Tutorial>){:target="_blank" rel="noopener noreferrer"}、Klace (2007) [Dream Exit Induced Lucid Dream (DEILD) ↗](<https://www.dreamviews.com/induction-techniques/32682-dream-exit-induced-lucid-dream-deild.html>){:target="_blank" rel="noopener noreferrer"}、Hargarts (2004) [Finger Induced Lucid Dream (FILD) ↗](<https://www.dreamviews.com/induction-techniques/4779-finger-induced-lucid-dream-fild.html>){:target="_blank" rel="noopener noreferrer"}。コミュニティの手順。
 
-[^aspy-2017]: Denholm J. Aspy, Paul Delfabbro, Michael Proeve et al. (2017). [Reality testing and the mnemonic induction of lucid dreams: Findings from the National Australian Lucid Dream Induction Study ↗](<https://doi.org/10.1037/drm0000059>){:target="_blank" rel="noopener noreferrer" aria-label="Reality testing and the mnemonic induction of lucid dreams: Findings from the National Australian Lucid Dream Induction Study（新しいタブで開きます）"}. Dreaming, 27(3), 206–231. 査読原著論文。自宅での無作為割付・自己報告比較研究。
+[^intro-methods-imagery]: 「最近幽体離脱にはまった　まとめ」[１氏の方法 ↗](<https://w.atwiki.jp/wiki13_ridatu/pages/9.html>){:target="_blank" rel="noopener noreferrer"}、[金縛り解除法 ↗](<https://w.atwiki.jp/wiki13_ridatu/pages/325.html>){:target="_blank" rel="noopener noreferrer"}、DreamViews [Mancon's Simple Visualization WILD Technique ↗](<https://www.dreamviews.com/wake-initiated-lucid-dreams-wild/128996-mancons-simple-visualization-wild-technique-print.html?pp=200>){:target="_blank" rel="noopener noreferrer"}、LD4all [Sleep Paralysis article ↗](<https://community.ld4all.com/t/sleep-paralysis-article/40556>){:target="_blank" rel="noopener noreferrer"}。コミュニティの手順。
 
-[^carr-2023]: Michelle Carr, Karen Konkoly, Remington Mallett et al. (2023). [Combining presleep cognitive training and REM-sleep stimulation in a laboratory morning nap for lucid dream induction ↗](<https://doi.org/10.1037/cns0000227>){:target="_blank" rel="noopener noreferrer" aria-label="Combining presleep cognitive training and REM-sleep stimulation in a laboratory morning nap for lucid dream induction（新しいタブで開きます）"}. Psychology of Consciousness: Theory, Research, and Practice, 10(4), 413–430. Advance online publication: 2020. 査読原著論文。感覚キューのある群とない群の睡眠実験室比較。
+[^aspy-2020]: Aspy (2020). [Findings From the International Lucid Dream Induction Study ↗](<https://doi.org/10.3389/fpsyg.2020.01746>){:target="_blank" rel="noopener noreferrer"}。家庭での自己報告研究。
 
+[^tan-2023]: Tan & Fan (2023). [A systematic review of new empirical data on lucid dream induction techniques ↗](<https://doi.org/10.1111/jsr.13786>){:target="_blank" rel="noopener noreferrer"}。系統的レビュー。
 
-[^jalal-2016]: Baland Jalal (2016). [How to Make the Ghosts in my Bedroom Disappear? Focused-Attention Meditation Combined with Muscle Relaxation (MR Therapy)—A Direct Treatment Intervention for Sleep Paralysis ↗](<https://doi.org/10.3389/fpsyg.2016.00028>){:target="_blank" rel="noopener noreferrer" aria-label="How to Make the Ghosts in my Bedroom Disappear? Focused-Attention Meditation Combined with Muscle Relaxation (MR Therapy)—A Direct Treatment Intervention for Sleep Paralysis（新しいタブで開きます）"}.  査読論文・Hypothesis and Theory（仮説提案と2症例）。
+[^intro-voss]: Voss ほか (2013). [Measuring consciousness in dreams ↗](<https://pubmed.ncbi.nlm.nih.gov/23220345/>){:target="_blank" rel="noopener noreferrer"}。原著論文。
 
+[^intro-partners]: 「最近幽体離脱にはまった まとめ」[パートナーについて ↗](<https://w.atwiki.jp/wiki13_ridatu/pages/21.html>){:target="_blank" rel="noopener noreferrer"}。コミュニティ資料。
 
-[^intro-community]: 「最近幽体離脱にはまった まとめ」 [離脱初心者Q&A ↗](<https://w.atwiki.jp/wiki13_ridatu/pages/339.html>){:target="_blank" rel="noopener noreferrer" aria-label="離脱初心者Q&A（新しいタブで開きます）"}。まとめに蓄積された説明と体験談を参照しています。体験の実在感については、体験者の報告として紹介しています。
+[^intro-guides]: DreamViews [Dream Guide ↗](<https://www.dreamviews.com/wiki/Dream-Guide>){:target="_blank" rel="noopener noreferrer"}。コミュニティ資料。
 
-[^intro-laberge]: Stephen LaBerge, Lynne Levitan, William C. Dement (1986). [Lucid Dreaming: Physiological Correlates of Consciousness during REM Sleep ↗](<https://jmb-online.com/pdf/05/JMB-07-2-3-251.pdf>){:target="_blank" rel="noopener noreferrer" aria-label="Lucid Dreaming: Physiological Correlates of Consciousness during REM Sleep（新しいタブで開きます）"}。睡眠実験の原著論文。夢の途中で気づく DILD と、覚醒から夢に入る WILD を区別して報告しています。
+[^intro-terms]: 「最近幽体離脱にはまった まとめ」[用語 ↗](<https://w.atwiki.jp/wiki13_ridatu/pages/20.html>){:target="_blank" rel="noopener noreferrer"}。金縛り・偽りの目覚めの説明。
 
-[^intro-levitan]: Lynne Levitan, Stephen LaBerge, Donald J. DeGracia, Philip Zimbardo (1999). [Out-of-body experiences and dreams ↗](<https://lucidity.com/REMOBE.pdf>){:target="_blank" rel="noopener noreferrer" aria-label="Out-of-body experiences and dreams（新しいタブで開きます）"}。明晰夢の実験記録を分析した原著論文。寝床や身体から抜け出す内容を伴う報告があります。主観的には覚醒から続いたと感じても、生理記録では覚醒の基準を満たさなかった例もあり、連続感だけで睡眠状態は決まりません。
+[^intro-levitan]: Levitan ほか (1999). [Out-of-body experiences and dreams ↗](<https://lucidity.com/REMOBE.pdf>){:target="_blank" rel="noopener noreferrer"}。原著論文。
 
-[^intro-mainieri]: Greta Mainieri ほか (2021). [Are sleep paralysis and false awakenings different from REM sleep and from lucid REM sleep? A spectral EEG analysis ↗](<https://pmc.ncbi.nlm.nih.gov/articles/PMC8020694/>){:target="_blank" rel="noopener noreferrer" aria-label="Are sleep paralysis and false awakenings different from REM sleep and from lucid REM sleep? A spectral EEG analysis（新しいタブで開きます）"}。査読原著論文。金縛り・偽覚醒・明晰 REM 睡眠などを比較した小規模な睡眠実験。偽覚醒の記録は2例で、一般的な頻度を示す研究ではありません。
-
-[^intro-variation]: 「最近幽体離脱にはまった まとめ」 [小技 ↗](<https://w.atwiki.jp/wiki13_ridatu/pages/461.html>){:target="_blank" rel="noopener noreferrer" aria-label="小技（新しいタブで開きます）"}。「名倉の安定」「視界を確保する方法」など、体験が不安定・不鮮明な場合も扱っています。技法の有効性を検証した研究ではありません。
-
-[^intro-voss]: Ursula Voss ほか (2013). [Measuring consciousness in dreams ↗](<https://pubmed.ncbi.nlm.nih.gov/23220345/>){:target="_blank" rel="noopener noreferrer" aria-label="Measuring consciousness in dreams（新しいタブで開きます）"}。査読原著論文。夢だという洞察と制御などを分けて検討しています。研究の realism 尺度を、感覚の鮮明さそのものと同一視してはいません。
-
-[^intro-partners]: 「最近幽体離脱にはまった まとめ」[パートナーについて ↗](<https://w.atwiki.jp/wiki13_ridatu/pages/21.html>){:target="_blank" rel="noopener noreferrer" aria-label="パートナーについて（新しいタブで開きます）"}。パートナーやガイドについての説明と体験談を参照しています。
-
-[^intro-guides]: DreamViews [Dream Guide ↗](<https://www.dreamviews.com/wiki/Dream-Guide>){:target="_blank" rel="noopener noreferrer" aria-label="Dream Guide（新しいタブで開きます）"}。夢の中で助けになる人物という用語説明。VIP の概念と同じものだと確定したり、実践の効果を示したりする資料ではありません。
-
-[^intro-methods-jp]: 「最近幽体離脱にはまった　まとめ」[色々な離脱の仕方まとめ ↗](<https://w.atwiki.jp/wiki13_ridatu/pages/17.html>){:target="_blank" rel="noopener noreferrer" aria-label="色々な離脱の仕方まとめ（新しいタブで開きます）"}（二度寝法・指マン法）、[色々な離脱法４ ↗](<https://w.atwiki.jp/wiki13_ridatu/pages/411.html>){:target="_blank" rel="noopener noreferrer" aria-label="色々な離脱法４（新しいタブで開きます）"}（起きたら動かない法）。コミュニティに蓄積された実践の説明。指マン法は1本の指で布団をなで、その後にローリングする手順で、FILD と同一の手順ではありません。
-
-[^intro-methods-overseas]: DreamViews [WBTB Tutorial ↗](<https://www.dreamviews.com/wiki/WBTB-Tutorial>){:target="_blank" rel="noopener noreferrer" aria-label="WBTB Tutorial（新しいタブで開きます）"}、Klace (2007) [Dream Exit Induced Lucid Dream (DEILD) ↗](<https://www.dreamviews.com/induction-techniques/32682-dream-exit-induced-lucid-dream-deild.html>){:target="_blank" rel="noopener noreferrer" aria-label="Dream Exit Induced Lucid Dream (DEILD)（新しいタブで開きます）"}、Hargarts (2004) [Finger Induced Lucid Dream (FILD) ↗](<https://www.dreamviews.com/induction-techniques/4779-finger-induced-lucid-dream-fild.html>){:target="_blank" rel="noopener noreferrer" aria-label="Finger Induced Lucid Dream (FILD)（新しいタブで開きます）"}。コミュニティの解説・原投稿。FILD は2本の指を交互に小さく動かし、その後に夢かどうか確認する説明です。本文では手順の共通点を比較しており、伝播の経路や効果の同等性を示す資料としては扱っていません。
-
-[^intro-methods-imagery]: 「最近幽体離脱にはまった　まとめ」[１氏の方法 ↗](<https://w.atwiki.jp/wiki13_ridatu/pages/9.html>){:target="_blank" rel="noopener noreferrer" aria-label="１氏の方法（新しいタブで開きます）"}、[金縛り解除法 ↗](<https://w.atwiki.jp/wiki13_ridatu/pages/325.html>){:target="_blank" rel="noopener noreferrer" aria-label="金縛り解除法（新しいタブで開きます）"}、DreamViews [Mancon's Simple Visualization WILD Technique ↗](<https://www.dreamviews.com/wake-initiated-lucid-dreams-wild/128996-mancons-simple-visualization-wild-technique-print.html?pp=200>){:target="_blank" rel="noopener noreferrer" aria-label="Mancon's Simple Visualization WILD Technique（新しいタブで開きます）"}、LD4all [Sleep Paralysis article ↗](<https://community.ld4all.com/t/sleep-paralysis-article/40556>){:target="_blank" rel="noopener noreferrer" aria-label="Sleep Paralysis article（新しいタブで開きます）"}。いずれもコミュニティの実践説明。１氏の方法は上方に自分を想像してそこへ移るイメージを使うもので、WILD の特定手順や MILD・SSILD と同一視していません。金縛りを必須としない扱いは、本サイトの WILD の説明とも合わせています。
+[^intro-buzzi]: Buzzi (2011). [False awakenings in light of the dream protoconsciousness theory: a study in lucid dreamers ↗](<https://doi.org/10.11588/ijodr.2011.2.9085>){:target="_blank" rel="noopener noreferrer"}。明晰夢経験者の偽覚醒に関する自己報告研究。
