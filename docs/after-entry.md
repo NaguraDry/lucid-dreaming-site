@@ -1,6 +1,7 @@
 ---
 title: "離脱した後"
-nav_order: 7
+parent: "実践ガイド"
+nav_order: 3
 ---
 
 # 離脱した後
