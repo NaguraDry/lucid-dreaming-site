@@ -6513,11 +6513,11 @@ body {
   color: #393939; }
 
 .main-content h1 {
-  font-size: 28px;
+  font-size: 28px !important;
   color: #222; }
 
 .main-content h2 {
-  font-size: 21px;
+  font-size: 21px !important;
   margin-top: 2.5rem; }
 
 .main-content a {
@@ -6557,6 +6557,7 @@ body {
 
 .main-content .footnote {
   display: inline-block;
+  line-height: 1.2;
   padding-inline: .1em;
   white-space: nowrap; }
 
@@ -6584,4 +6585,4 @@ a:focus-visible, button:focus-visible {
     aspect-ratio: 16 / 9; }
 
   .main-content h1 {
-    font-size: 26px; } }
+    font-size: 26px !important; } }
