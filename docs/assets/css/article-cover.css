@@ -47,8 +47,7 @@
 .article-shell .main-content h2 { font-size: 26px !important; margin-top: 56px; margin-bottom: 22px; }
 .article-shell .main-content h3 { font-size: 21px; margin-top: 36px; margin-bottom: 18px; }
 .article-shell .main-content p { margin-top: 0; margin-bottom: 24px; }
-.article-shell .main-content a { color: #355a46; font-weight: 500; text-decoration-line: underline; text-underline-offset: 4px; text-decoration-thickness: 1px; }
-.article-shell .main-content a:hover { color: #80613b; }
+/* Text links are defined in the shared site-links.css. */
 .article-shell .main-content .anchor-heading { color: #728174; }
 .article-shell .main-content .anchor-heading svg { fill: currentColor; }
 .article-shell .main-content blockquote { background: #e8ece3; border-left: 3px solid #8d9f89; padding: 20px 24px; margin-inline: 0; color: #344d3e; }
