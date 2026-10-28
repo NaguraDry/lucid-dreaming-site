@@ -47,6 +47,7 @@ defaults:
       path: "techniques/index.md"
     values:
       title: "技法一覧"
+      parent: "実践ガイド"
       nav_order: 2
       has_children: true
   - scope:
@@ -70,57 +71,70 @@ defaults:
       title: "DEILD（目覚めた直後に戻る）"
       nav_order: 5
       parent: "技法一覧"
+      grand_parent: "実践ガイド"
   - scope:
       path: "techniques/dream-journal.md"
     values:
       title: "夢日記"
       nav_order: 6
       parent: "技法一覧"
+      grand_parent: "実践ガイド"
   - scope:
       path: "techniques/fild.md"
     values:
       title: "FILD（指を小さく動かす）"
       nav_order: 7
       parent: "技法一覧"
+      nav_exclude: true
+      grand_parent: "実践ガイド"
   - scope:
       path: "techniques/mild.md"
     values:
       title: "MILD（記銘による誘発）"
       nav_order: 8
       parent: "技法一覧"
+      grand_parent: "実践ガイド"
   - scope:
       path: "techniques/reality-checks.md"
     values:
       title: "リアリティチェック（RT）"
       nav_order: 9
       parent: "技法一覧"
+      nav_exclude: true
+      grand_parent: "実践ガイド"
   - scope:
       path: "techniques/sleep-paralysis.md"
     values:
       title: "金縛りからの離脱"
       nav_order: 10
       parent: "技法一覧"
+      grand_parent: "実践ガイド"
   - scope:
       path: "techniques/ssild.md"
     values:
       title: "SSILD（感覚を巡る）"
       nav_order: 11
       parent: "技法一覧"
+      grand_parent: "実践ガイド"
   - scope:
       path: "techniques/tlr.md"
     values:
       title: "TLR（感覚キュー）"
       nav_order: 12
       parent: "技法一覧"
+      nav_exclude: true
+      grand_parent: "実践ガイド"
   - scope:
       path: "techniques/wbtb.md"
     values:
       title: "WBTB（一度起きて寝直す）"
       nav_order: 13
       parent: "技法一覧"
+      grand_parent: "実践ガイド"
   - scope:
       path: "techniques/wild.md"
     values:
       title: "WILD（覚醒から夢へ移る）"
       nav_order: 14
       parent: "技法一覧"
+      grand_parent: "実践ガイド"

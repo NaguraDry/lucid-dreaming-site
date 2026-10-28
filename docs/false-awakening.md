@@ -1,6 +1,7 @@
 ---
 title: "偽りの目覚め（偽覚醒）"
-nav_order: 6
+parent: "実践ガイド"
+nav_order: 4
 last_modified_at: "2026-10-28T19:09:33+09:00"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Radugaの方法（覚醒直後に試す方法）"
 parent: "技法一覧"
+grand_parent: "実践ガイド"
 nav_order: 15
 last_modified_at: "2026-10-28T19:19:24+09:00"
 ---

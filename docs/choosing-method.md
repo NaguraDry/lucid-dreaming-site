@@ -1,6 +1,6 @@
 ---
 title: "離脱法の選び方"
-parent: "技法一覧"
+parent: "実践ガイド"
 nav_order: 1
 last_modified_at: "2026-10-28T19:20:35+09:00"
 ---
