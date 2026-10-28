@@ -7,11 +7,13 @@ body { font-weight: 400; }
 .main-content h2 { font-size: 21px !important; margin-top: 2.5rem; }
 .main-content a { font-weight: 700; }
 .site-title { font-size: 18px !important; font-weight: 700; color: #222; }
-.site-header { height: auto; max-height: none; flex-shrink: 0; min-height: 3.75rem; padding-top: 1rem; padding-bottom: 1rem; }
+.site-header { height: auto; max-height: none; flex-shrink: 0; min-height: 3.75rem; padding-top: 0; padding-bottom: 0; }
+.main-content-wrap { padding-top: 1rem; }
+#main-header.main-header--empty { display: none; }
 .title-mobile { display: none; }
 .site-hero { position: relative; margin: 0 0 2rem; overflow: hidden; border-radius: 6px; }
 .site-hero img { display: block; width: 100%; height: auto; aspect-ratio: 3 / 1; object-fit: contain; }
-.site-hero-copy { position: absolute; top: 12%; left: 4%; right: 4%; text-align: center; color: #263532; text-shadow: 0 1px 4px rgba(255, 255, 248, .95), 0 0 14px rgba(255, 255, 248, .8); }
+.site-hero-copy { position: absolute; top: 23%; left: 4%; right: 4%; text-align: center; color: #263532; text-shadow: 0 1px 4px rgba(255, 255, 248, .95), 0 0 14px rgba(255, 255, 248, .8); }
 .main-content .site-hero .site-hero-title { margin: 0; color: #263532; font-size: 28px !important; line-height: 1.3; }
 .site-hero-title .anchor-heading { display: none; }
 .main-content .site-hero .site-hero-subtitle { margin: 12px 0 0; font-size: 14px; line-height: 1.6; color: #263532; }
@@ -30,11 +32,11 @@ a:focus-visible, button:focus-visible { outline: 3px solid #267cb9; outline-offs
   .title-mobile > span { display: block; white-space: nowrap; }
   /* Keep the official title, including its comma, available to assistive technology. */
   .title-desktop { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
-  .site-title { line-height: 1.3; }
+  .site-title { font-size: 14px !important; font-weight: 500; line-height: 1.35; color: #56625d; }
   .site-hero img { aspect-ratio: 16 / 9; }
-  .site-hero-copy { top: 5%; left: 4%; right: 4%; }
-  .main-content .site-hero .site-hero-title { font-size: clamp(21px, 6vw, 26px) !important; line-height: 1.25; }
-  .main-content .site-hero .site-hero-subtitle { margin-top: 6px; font-size: clamp(10px, 3vw, 13px); line-height: 1.45; }
+  .site-hero-copy { top: 10%; left: 4%; right: 4%; }
+  .main-content .site-hero .site-hero-title { font-size: clamp(19px, 5.5vw, 24px) !important; font-weight: 600; line-height: 1.2; }
+  .main-content .site-hero .site-hero-subtitle { margin-top: 6px; font-size: clamp(10px, 2.875vw, 12px); line-height: 1.45; }
   .site-hero-subtitle span { display: block; white-space: nowrap; }
   .main-content h1 { font-size: 26px !important; }
 }

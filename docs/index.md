@@ -43,8 +43,7 @@
 
 | まとめでの呼び名 | 明晰夢側の呼び名 | 共通点・違い |
 | --- | --- | --- |
-| 二度寝法 | [WBTB](techniques/wbtb.html) | いったん目覚めて寝直す。 |
-| トイレマン法 | [WBTB](techniques/wbtb.html) | 途中で起きて寝直す機会を利用する点が共通。 |
+| 二度寝法・トイレマン法 | [WBTB](techniques/wbtb.html) | いったん目覚めて寝直す機会を利用する。 |
 | 起きたら動かない法 | [DEILD](techniques/deild.html) | 覚醒直後に目を閉じたまま静かにしている。 |
 | 指マン法 | [FILD](techniques/fild.html) | 小さな指の動きを使う。指の本数や後の手順は異なる。[^intro-methods-jp][^intro-methods-overseas] |
 | １氏の方法 | イメージを使う [WILD](techniques/wild.html) 系 | イメージを使う実践として、広い共通点がある。 |
