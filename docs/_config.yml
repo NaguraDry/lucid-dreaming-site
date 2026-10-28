@@ -25,6 +25,13 @@ defaults:
     values:
       layout: default
       has_toc: false
+      image:
+        path: /assets/images/hero-watercolor-mobile.png
+        width: 1672
+        height: 941
+        alt: "湖と木陰のベンチ、本を描いた水彩画"
+      twitter:
+        card: summary_large_image
   - scope:
       path: "assets"
     values:
@@ -32,7 +39,8 @@ defaults:
   - scope:
       path: "index.md"
     values:
-      title: "はじめに"
+      title: "幽体離脱のやり方を明晰夢研究から整理"
+      nav_title: "はじめに"
       nav_order: 1
       layout: home
   - scope:
