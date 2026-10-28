@@ -8,6 +8,9 @@
 **このサイトでは、明晰夢の研究や実践をもとに方法を紹介します。** なじみのある「離脱」という呼び名を大切にしながら、目指す体験に近づく方法を考えていきます。
 
 <style>
+#perspectives-overview th[scope="row"] {
+  text-align: left;
+}
 #perspectives-overview .site-approach > th,
 #perspectives-overview .site-approach > td {
   background-color: #edf4ee;
