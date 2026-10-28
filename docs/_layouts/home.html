@@ -1,0 +1,20 @@
+---
+layout: default
+---
+{% if site.hero_desktop and site.hero_mobile %}
+<section class="site-hero" aria-labelledby="改めていま幽体離脱をひもとく">
+  <picture>
+    <source media="(max-width: 799px)" srcset="{{ site.hero_mobile | relative_url }}" width="1672" height="941">
+    <img src="{{ site.hero_desktop | relative_url }}" alt="" width="2172" height="724" decoding="async" fetchpriority="high">
+  </picture>
+  <div class="site-hero-copy">
+    <h1 id="改めていま幽体離脱をひもとく" class="site-hero-title">{% include responsive_title.html %}</h1>
+    <p class="site-hero-subtitle"><span>現実のような手触りのある世界を、</span><span>自分の意思で歩き回りたい。</span></p>
+  </div>
+</section>
+{% comment %}Move only the existing opening h1 into the hero; preserve all body text and its footnotes.{% endcomment %}
+{% assign opening_heading = content | split: '</h1>' | first | append: '</h1>' %}
+{{ content | remove_first: opening_heading }}
+{% else %}
+{{ content }}
+{% endif %}
