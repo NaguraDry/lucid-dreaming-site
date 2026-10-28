@@ -1,0 +1,19 @@
+{%- capture header_custom_content -%}{% include header_custom.html %}{%- endcapture -%}
+{%- assign header_custom_content = header_custom_content | strip -%}
+{%- assign aux_links_count = site.aux_links | size -%}
+{%- if site.search_enabled != false or aux_links_count > 0 or header_custom_content != '' -%}
+<div id="main-header" class="main-header">
+  {% if site.search_enabled != false %}
+    {% include components/search_header.html %}
+  {% else %}
+    <div></div>
+  {% endif %}
+  {{ header_custom_content }}
+  {% if aux_links_count > 0 %}
+    {% include components/aux_nav.html %}
+  {% endif %}
+</div>
+{%- else -%}
+{% comment %}The theme's mobile menu handler requires this element even when no controls are present.{% endcomment %}
+<div id="main-header" class="main-header main-header--empty" aria-hidden="true"></div>
+{%- endif -%}
