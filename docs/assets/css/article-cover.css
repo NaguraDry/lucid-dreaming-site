@@ -1,0 +1,105 @@
+/* B「夢への入口」の色と書体を、記事の読みやすい共通レイアウトへ。 */
+.article-shell {
+  --cover-ink: #263c37;
+  --cover-paper: #f8f6ee;
+  --cover-line: #c9cec2;
+  --cover-muted: #596c62;
+  --cover-serif: "Yu Mincho", "Hiragino Mincho ProN", "Noto Serif CJK JP", serif;
+  color: var(--cover-ink);
+  background: var(--cover-paper);
+  font-family: "Yu Gothic", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+  font-synthesis: none;
+}
+.article-shell .side-bar { background: #263c37; border-right: 0; }
+.article-shell .site-header { border-bottom: 1px solid #62746b; min-height: 112px; padding-block: 24px; }
+.article-shell .site-title { color: #faf9ed; font-family: var(--cover-serif); font-size: 19px !important; font-weight: 500; line-height: 1.9; letter-spacing: .04em; }
+.article-shell .site-title:hover { background: transparent; color: #fff; }
+.article-shell .site-nav { padding-top: 22px; }
+.article-shell .nav-list .nav-list-item > .nav-list-link { color: #e7ebdf; padding-block: 10px; line-height: 1.7; background: transparent; }
+.article-shell .nav-list .nav-list-item > .nav-list-link:hover,
+.article-shell .nav-list .nav-list-item > .nav-list-link.active { background: #3c5349; color: #fff; }
+.article-shell .nav-list .nav-list-item > .nav-list-link.active { border-left: 3px solid #d7c49a; font-weight: 600; }
+.article-shell .nav-list .nav-list-item .nav-list-expander { color: #e7ebdf; padding-block: 10px; }
+.article-shell .nav-list .nav-list-item .nav-list-expander:hover { background: #3c5349; }
+.article-shell .site-footer { color: #d5ded2; }
+.article-shell .site-footer a { color: inherit; }
+.article-shell .site-button { color: #faf9ed; min-width: 48px; min-height: 48px; }
+.article-shell .site-button:hover { background: #3c5349; }
+.article-shell .main { background: var(--cover-paper); }
+.article-masthead {
+  padding: 30px 40px 28px;
+  min-height: 172px;
+  background: linear-gradient(90deg, #f1f4e9 12%, #f1f4e9dd 44%, #f1f4e933 100%), url("../images/hero-watercolor-wide.png") center 56% / cover;
+  border-bottom: 1px solid var(--cover-line);
+}
+.article-brand { color: var(--cover-ink); font-family: var(--cover-serif); font-size: 23px; line-height: 1.8; letter-spacing: .08em; text-decoration: none; }
+.article-masthead p { color: #40584a; margin: 10px 0 0; font-size: 11px; letter-spacing: .12em; }
+.article-shell .main-content-wrap { padding: 32px 40px 56px; }
+.article-shell .breadcrumb-nav { margin-bottom: 32px; }
+.article-shell .breadcrumb-nav-list-item { font-size: 12px; line-height: 1.9; }
+.article-shell .breadcrumb-nav a { color: var(--cover-muted); }
+.article-shell .main-content { color: var(--cover-ink); font-size: 16px; line-height: 2.1; }
+.article-shell .main-content h1,
+.article-shell .main-content h2,
+.article-shell .main-content h3,
+.article-shell .main-content h4 { color: var(--cover-ink); font-family: var(--cover-serif); font-weight: 500; letter-spacing: .045em; line-height: 1.7; }
+.article-shell .main-content h1 { font-size: clamp(27px, 2.7vw, 38px) !important; margin-bottom: 32px; padding-bottom: 28px; border-bottom: 1px solid var(--cover-line); }
+.article-shell .main-content h2 { font-size: 26px !important; margin-top: 56px; margin-bottom: 22px; }
+.article-shell .main-content h3 { font-size: 21px; margin-top: 36px; margin-bottom: 18px; }
+.article-shell .main-content p { margin-top: 0; margin-bottom: 24px; }
+.article-shell .main-content a { color: #355a46; font-weight: 500; text-decoration-line: underline; text-underline-offset: 4px; text-decoration-thickness: 1px; }
+.article-shell .main-content a:hover { color: #80613b; }
+.article-shell .main-content .anchor-heading { color: #728174; }
+.article-shell .main-content .anchor-heading svg { fill: currentColor; }
+.article-shell .main-content blockquote { background: #e8ece3; border-left: 3px solid #8d9f89; padding: 20px 24px; margin-inline: 0; color: #344d3e; }
+.article-shell .main-content blockquote p:last-child { margin-bottom: 0; }
+.article-shell .main-content li { margin-block: 8px; }
+.article-shell .main-content hr { background: var(--cover-line); }
+.article-shell .main-content .table-wrapper { border-radius: 0; box-shadow: none; border: 1px solid var(--cover-line); margin-block: 28px; }
+.article-shell .main-content table { font-size: 14px; border-collapse: collapse; }
+.article-shell .main-content th { background: #e4e9dd; color: #263c37; font-weight: 600; }
+.article-shell .main-content td { background: #fbfaf5; }
+.article-shell .main-content th, .article-shell .main-content td { padding: 15px 18px; border-color: var(--cover-line); line-height: 1.9; }
+.article-shell .main-content .footnotes { color: var(--cover-muted); font-size: 13px; line-height: 1.9; border-top: 1px solid var(--cover-line); margin-top: 28px; padding-top: 20px; }
+.article-shell .main-content .footnote { font-size: 12px; }
+.article-shell .main-content footer { margin-top: 40px; padding-top: 12px; font-size: 13px; }
+.article-shell .main-content footer p { margin-bottom: 16px; }
+.article-shell .main-content .article-updated { color: var(--cover-muted); font-size: 12px; margin-top: 16px; }
+.article-shell a:focus-visible, .article-shell button:focus-visible { outline: 3px solid #b26a34; outline-offset: 4px; }
+.article-shell .skip-to-main:focus { background: #fffdf4; color: #263c37; }
+@media (min-width: 66.5rem) {
+  .article-shell .main { max-width: 960px; }
+}
+@media (max-width: 49.99rem) {
+  .article-shell .site-header { min-height: 88px; padding-block: 12px; }
+  .article-shell .site-title { font-size: 16px !important; line-height: 1.6; }
+  .article-shell .site-nav { padding-top: 10px; padding-bottom: 20px; }
+  .article-masthead { min-height: 138px; padding: 22px 24px; background-position: center; }
+  .article-brand { font-size: 20px; }
+  .article-masthead p { font-size: 10px; }
+  .article-shell .main-content-wrap { padding: 26px 24px 40px; }
+  .article-shell .breadcrumb-nav { margin-bottom: 24px; }
+  .article-shell .main-content { font-size: 16px; line-height: 2; }
+  .article-shell .main-content h1 { font-size: 27px !important; margin-bottom: 25px; padding-bottom: 22px; }
+  .article-shell .main-content h2 { font-size: 23px !important; margin-top: 42px; }
+  .article-shell .main-content h3 { font-size: 20px; }
+  .article-shell .main-content blockquote { padding: 17px 18px; }
+  .article-shell .main-content th, .article-shell .main-content td { padding: 12px; }
+}
+@media print {
+  .article-masthead, .article-shell .side-bar { display: none; }
+  .article-shell .main { margin: 0; max-width: none; }
+  .article-shell { background: white; color: black; }
+}
+/* Theme rules become more specific at each nested navigation level. */
+.article-shell .side-bar .nav-list-link,
+.article-shell .side-bar .nav-list-expander { color: #e7ebdf !important; }
+.article-shell .side-bar .nav-list-link.active,
+.article-shell .side-bar .nav-list-link:hover { color: #fff !important; }
+.article-shell .site-button .icon { color: #faf9ed; }
+.article-shell .site-title .title-desktop {
+  position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0;
+}
+.article-shell .site-title .title-mobile { display: block; }
+.article-shell .site-title .title-mobile > span { display: block; white-space: nowrap; }
