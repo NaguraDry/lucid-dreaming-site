@@ -6561,7 +6561,7 @@ body {
   color: #263532;
   text-shadow: 0 1px 4px rgba(255, 255, 248, 0.95), 0 0 14px rgba(255, 255, 248, 0.8); }
 
-.main-content .site-hero-title {
+.main-content .site-hero .site-hero-title {
   margin: 0;
   color: #263532;
   font-size: 28px !important;
@@ -6570,7 +6570,7 @@ body {
 .site-hero-title .anchor-heading {
   display: none; }
 
-.main-content .site-hero-subtitle {
+.main-content .site-hero .site-hero-subtitle {
   margin: 12px 0 0;
   font-size: 14px;
   line-height: 1.6;
@@ -6642,11 +6642,11 @@ a:focus-visible, button:focus-visible {
     left: 4%;
     right: 4%; }
 
-  .main-content .site-hero-title {
+  .main-content .site-hero .site-hero-title {
     font-size: clamp(21px, 6vw, 26px) !important;
     line-height: 1.25; }
 
-  .main-content .site-hero-subtitle {
+  .main-content .site-hero .site-hero-subtitle {
     margin-top: 6px;
     font-size: clamp(10px, 3vw, 13px);
     line-height: 1.45; }
