@@ -102,3 +102,25 @@
 }
 .article-shell .site-title .title-mobile { display: block; }
 .article-shell .site-title .title-mobile > span { display: block; white-space: nowrap; }
+
+/* Mobile brand banner and breadcrumb-menu row. Desktop layout is preserved. */
+@media (max-width:49.99rem) {
+ .article-shell .side-bar { position:sticky;top:0;z-index:100;max-height:90vh;overflow-y:auto; }
+ .article-shell .site-header {
+   display:flex;align-items:center;gap:8px;min-height:108px;padding:22px 16px;
+   background:linear-gradient(90deg,#f8f8ebf2,#f8f8ebb8 55%,#f8f8eb22),url("../images/hero-watercolor-wide.png") center 58% / cover;
+   border-bottom:1px solid #c9cec2;
+ }
+ .article-shell .site-title { flex:1;min-width:0;padding:0;color:#263c37;font-size:clamp(15px,4.3vw,17px)!important;line-height:1.6;letter-spacing:0; }
+ .article-shell .site-title:hover { color:#263c37; }
+ .article-shell .site-title .title-desktop { position:static;width:auto;height:auto;margin:0;padding:0;overflow:visible;clip:auto;white-space:nowrap;border:0; }
+ .article-shell .site-title .title-mobile { display:none; }
+ .article-shell .article-masthead { display:none; }
+ .article-shell .main-content-wrap { padding-top:0; }
+ .breadcrumb-tools { display:flex;align-items:center;gap:12px;min-height:60px;padding:8px 0;background:#f8f6ee;position:sticky;top:108px;z-index:110;border-bottom:1px solid #d8ded2;margin-bottom:26px; }
+ .article-shell .breadcrumb-tools .breadcrumb-nav { flex:1;min-width:0;margin:0; }
+ .article-shell .breadcrumb-tools .breadcrumb-nav-list { margin:0; }
+ .article-shell .breadcrumb-tools .breadcrumb-nav-list-item { font-size:12px;line-height:1.8;white-space:normal;overflow-wrap:anywhere; }
+ .article-shell .breadcrumb-tools .site-button { display:flex;align-items:center;justify-content:center;flex:0 0 44px;width:44px;height:44px;min-width:44px;min-height:44px;margin:0;padding:10px;background:#263c37;border:1px solid #82978c;border-radius:6px;color:#faf9ed; }
+ .article-shell .site-nav.nav-open { position:fixed;left:0;right:0;top:var(--menu-panel-top,168px);max-height:calc(100vh - var(--menu-panel-top,168px));overflow-y:auto;background:#263c37;box-shadow:0 10px 24px #263c3730;border-top:1px solid #62746b; }
+}
