@@ -1,0 +1,19 @@
+/* Shared text links; navigation rows and action buttons retain their own styling. */
+:root { --site-link-color: #145c73; --site-link-hover: #183f4d; --site-link-underline: 1px; }
+.article-shell .main-content a,
+.immersive .text-link,
+.immersive footer a {
+  color: var(--site-link-color);
+  font-weight: 500;
+  text-decoration-line: underline;
+  text-decoration-color: currentColor;
+  text-decoration-thickness: var(--site-link-underline);
+  text-underline-offset: 3px;
+  text-decoration-skip-ink: auto;
+}
+.article-shell .main-content a:where(:not(.anchor-heading):not(.footnote):not(.reversefootnote)),
+.immersive .text-link,
+.immersive footer a { text-decoration-style: dotted; }
+.article-shell .main-content a:hover,
+.immersive .text-link:hover,
+.immersive footer a:hover { color: var(--site-link-hover); text-decoration-style: solid; }
