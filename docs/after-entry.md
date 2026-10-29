@@ -2,11 +2,12 @@
 title: "離脱した後"
 parent: "実践ガイド"
 nav_order: 3
+last_modified_at: "2026-10-29T16:48:40+09:00"
 ---
 
 # 離脱した後
 
-寝床から抜け出したように感じたら、あるいは夢の中で「これは夢だ」と気づいたら、何をしてみたいでしょうか。見知らぬ場所を歩く、景色をじっくり眺める、誰かと話す。目指していた体験に入ったら、その時間を楽しんでみましょう。
+寝床から抜け出したように感じたら、あるいは夢の中で「これは夢だ」と気づいたら、何をしてみたいでしょうか。大空を飛ぶ、好きなものを食べる、見知らぬ場所を歩く、誰かと親しく過ごす。目指していた体験に入ったら、その時間を楽しんでみましょう。
 
 ここでは、抜ける感覚を試すところから、体験が薄れたときの工夫、夢の中での楽しみ方までを紹介します。気になるものから選んでください。
 
@@ -33,11 +34,25 @@ nav_order: 3
 
 ここからは、実践者が語ってきた楽しみ方です。思いどおりの展開を作ることに限らず、現れた景色や相手の反応を楽しむこともできます。
 
+### 大空を駆ける
+
+空へ浮かび、街や山並みを上から眺める。ゆったり漂うだけでなく、風を切って進むような爽快感を楽しむ。飛行は、目的地へ移動する手段であると同時に、それ自体を楽しむ過ごし方です。海外の実践者のガイドでも、空を飛ぶ喜びや、美しい景色を眺める楽しさが語られています。[^flying-enjoyment]
+
+飛行などを試すなら、夢の中の身体が浮く様子を思い描く、といった楽しみ方を選べます。**高所から飛び降りて夢かどうか確かめる行動はしないでください。**
+
 ### 歩く、移動する、見知らぬ場所を見る
 
 まずは目に入った場所を歩いてみる。気になる道の先へ進んだり、建物の中を見たりするだけでも、探索になります。離脱の体験談では、空を飛ぶことや壁を通り抜けることも語られています。[^vip-terms]
 
-飛行などを試すなら、夢の中の身体が浮く様子を思い描く、といった楽しみ方を選べます。**高所から飛び降りて夢かどうか確かめる行動はしないでください。**
+### 食べる、味や香りを楽しむ
+
+夢の中で見つけた料理や、好物のお菓子を味わってみるのも一つです。食べ物を見るだけでなく、香りや口に入れたときの感覚を楽しんだ、という経験者の記録があります。たとえば、明晰夢の中でドーナツを食べ、リンゴのフィリングの味や食感まで印象に残ったという体験談があります。いつも同じように味わえるとは限りませんが、「夢の中で何を食べてみたいか」と考えると、楽しみが広がります。[^dream-food]
+
+### 性的な体験を楽しむ
+
+性的な体験を楽しみたいという関心も、離脱や明晰夢の動機の一つです。海外の明晰夢コミュニティにも、性的な体験を楽しんだという声や、それを目的に明晰夢を試したいという声があります。[^dream-enjoyment]
+
+冒険や探索と同じように、自分の興味に合った過ごし方として考えてみてください。思いどおりの展開にすることだけを目標にせず、そのときの心地よさや親密さを味わうのもよいでしょう。
 
 ### 誰かと話す、一緒に過ごす
 
@@ -71,3 +86,7 @@ nav_order: 3
 [^zadra-2025]: Antonio Zadra, Dave Green (2025). [To Dream, Perchance to Draw: Dream Characters’ Responses to a Request in Lucid Dreams ↗](<https://doi.org/10.1037/drm0000311>){:target="_blank" rel="noopener noreferrer"}。Dreaming。単一事例の研究。
 [^vip-partner]: 「最近幽体離脱にはまった まとめ」[パートナーについて ↗](<https://w.atwiki.jp/wiki13_ridatu/pages/21.html>){:target="_blank" rel="noopener noreferrer"}。コミュニティの説明と体験談。
 [^deild-guide]: DreamViews [DEILD Tutorial ↗](<https://www.dreamviews.com/wiki/DEILD-Tutorial>){:target="_blank" rel="noopener noreferrer"}。コミュニティの実践ガイド。
+
+[^flying-enjoyment]: SLS93（2008）. LD4all [Flying for Beginners ↗](<https://community.ld4all.com/t/flying-for-beginners/27778>){:target="_blank" rel="noopener noreferrer"}。飛行の喜びや景色を楽しむことを紹介する実践者のガイド。
+[^dream-food]: Steve Pavlina（2005）. [Dream Food ↗](<https://stevepavlina.com/blog/2005/04/dream-food/>){:target="_blank" rel="noopener noreferrer"}。明晰夢で食べたものの味・香り・食感を記した本人の体験談。
+[^dream-enjoyment]: Mallett ほか（2022）. [Benefits and concerns of seeking and experiencing lucid dreams ↗](<https://pmc.ncbi.nlm.nih.gov/articles/PMC10104404/>){:target="_blank" rel="noopener noreferrer"}。海外コミュニティの投稿分析。飛行や性的な体験を楽しんだ報告と、体験したいという希望を紹介しています。
