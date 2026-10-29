@@ -86,3 +86,6 @@ footer div{flex-direction:column;gap:18px}
 
 /* Keep the existing per-page update-date feature in the cover footer. */
 footer #page-updated{font-family:inherit;font-size:12px;line-height:1.8;color:var(--muted);margin-top:12px}
+
+/* Compact desktop cover; keep the mobile composition unchanged. */
+@media(min-width:800px){.b-cover{min-height:500px}.b-cover-copy{padding:44px max(36px,calc((100vw - 1160px)/2)) 32px}.b-cover h1{font-size:clamp(36px,4.3vw,60px)}.b-cover-copy>p:last-child{font-size:16px;margin-top:20px}.b-cover .eyebrow{margin-bottom:18px}}
