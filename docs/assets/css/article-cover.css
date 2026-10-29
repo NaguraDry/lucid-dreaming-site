@@ -29,7 +29,8 @@
 .article-masthead {
   padding: 30px 40px 28px;
   min-height: 172px;
-  background: linear-gradient(90deg, #f1f4e9 12%, #f1f4e9dd 44%, #f1f4e933 100%), url("../images/hero-watercolor-wide.png") center 56% / cover;
+  background: linear-gradient(90deg, #f1f4e9 12%, #f1f4e9dd 44%, #f1f4e933 100%), url("../images/hero-watercolor-wide.jpg") center 56% / cover;
+  background: linear-gradient(90deg, #f1f4e9 12%, #f1f4e9dd 44%, #f1f4e933 100%), image-set(url("../images/hero-watercolor-wide.avif") type("image/avif"),url("../images/hero-watercolor-wide.webp") type("image/webp"),url("../images/hero-watercolor-wide.jpg") type("image/jpeg")) center 56% / cover;
   border-bottom: 1px solid var(--cover-line);
 }
 .article-brand { color: var(--cover-ink); font-family: var(--cover-serif); font-size: 23px; line-height: 1.8; letter-spacing: .08em; text-decoration: none; }
@@ -108,7 +109,8 @@
  .article-shell .side-bar { position:sticky;top:0;z-index:100;max-height:90vh;overflow-y:auto; }
  .article-shell .site-header {
    display:flex;align-items:center;gap:8px;min-height:108px;padding:22px 16px;
-   background:linear-gradient(90deg,#f8f8ebf2,#f8f8ebb8 55%,#f8f8eb22),url("../images/hero-watercolor-wide.png") center 58% / cover;
+   background:linear-gradient(90deg,#f8f8ebf2,#f8f8ebb8 55%,#f8f8eb22),url("../images/hero-watercolor-wide.jpg") center 58% / cover;
+   background:linear-gradient(90deg,#f8f8ebf2,#f8f8ebb8 55%,#f8f8eb22),image-set(url("../images/hero-watercolor-wide.avif") type("image/avif"),url("../images/hero-watercolor-wide.webp") type("image/webp"),url("../images/hero-watercolor-wide.jpg") type("image/jpeg")) center 58% / cover;
    border-bottom:1px solid #c9cec2;
  }
  .article-shell .site-title { flex:1;min-width:0;padding:0;color:#263c37;font-size:clamp(15px,4.3vw,17px)!important;line-height:1.6;letter-spacing:0; }

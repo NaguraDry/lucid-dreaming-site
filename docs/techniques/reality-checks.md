@@ -1,4 +1,5 @@
 ---
+last_modified_at: "2026-10-28T19:09:33+09:00"
 ---
 
 # リアリティチェック（RT）
@@ -33,6 +34,7 @@ Aspy 2020 では、RT を追加する群に、**唇を閉じたまま口から�
 
 ## 関連
 
+- [偽りの目覚め](../false-awakening.html) — 起きたつもりの場面が夢だった体験
 - [MILD](mild.html) — 次の夢で気づく意図と想像を使う技法
 - [夢日記](dream-journal.html) — 確認した内容を含めた体験の記録
 - [FILD](fild.html)・[WILD](wild.html)・[DEILD](deild.html) — 実践資料の中で確認を組み合わせる例

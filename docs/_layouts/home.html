@@ -4,7 +4,11 @@ layout: default
 {% if site.hero_desktop and site.hero_mobile %}
 <section class="site-hero" aria-labelledby="改めていま幽体離脱をひもとく">
   <picture>
+    <source media="(max-width: 799px)" type="image/avif" srcset="{{ site.hero_mobile | replace: '.jpg', '.avif' | relative_url }}" width="1672" height="941">
+    <source media="(max-width: 799px)" type="image/webp" srcset="{{ site.hero_mobile | replace: '.jpg', '.webp' | relative_url }}" width="1672" height="941">
     <source media="(max-width: 799px)" srcset="{{ site.hero_mobile | relative_url }}" width="1672" height="941">
+    <source type="image/avif" srcset="{{ site.hero_desktop | replace: '.jpg', '.avif' | relative_url }}">
+    <source type="image/webp" srcset="{{ site.hero_desktop | replace: '.jpg', '.webp' | relative_url }}">
     <img src="{{ site.hero_desktop | relative_url }}" alt="" width="2172" height="724" decoding="async" fetchpriority="high">
   </picture>
   <div class="site-hero-copy">

@@ -1,67 +1,61 @@
 ---
+last_modified_at: "2026-10-29T10:41:29+09:00"
 ---
 
 # WILD（覚醒から夢へ移る）
 
-> Wake Initiated Lucid Dream。覚醒から夢への移行中に、夢だという自覚を保つことを狙う。単一の標準手順だけを指す言葉ではなく、夢への入り方の分類としても使われる。[^laberge-wild]
+WILDは、眠りに入るときに自覚を保ち、そのまま明晰夢へ入ることを目指す方法です。Wake Initiated Lucid Dreamの略で、一つの決まった手順というより、明晰夢への入り方を指す言葉です。[^laberge-wild]
 
-夢の途中で気づく方法とは入口が異なる。「体が眠り、意識だけが残る」は体験の比喩として使われることがあるが、体と意識が実際に分離するという生理学的説明ではない。
+以下は、DreamViewsの複数のコミュニティガイドをもとに、このサイトで整理した実践例です。[^wild-dreamviews][^wild-mzzkc] 一つの研究で検証された手順ではなく、この組み合わせ全体の成功率は分かっていません。
 
-## 根拠と手順の区別
+## 具体的な進め方
 
-LaBerge の研究解説には、一時的な覚醒を挟んで明晰 REM 睡眠へ入る記録がある。ただし、確認された明晰夢の分類であり、以下のネット上の手順を試した全回数に対する成功率ではない。[^laberge-wild]
+### 1. 眠りに戻るとき、楽な姿勢を取る
 
-DreamViews などには複数の実践ガイドがある。注意の向け方、姿勢、移行時の感覚の説明には違いがあり、一つのガイドを全員に必要な条件とはしない。[^wild-dreamviews][^wild-sageous][^wild-mzzkc]
+[WBTB](wbtb.html)で一度起きた後や、昼寝の機会を使う説明があります。横になり、楽に眠れる姿勢を取ります。[^wild-dreamviews]
 
-## コミュニティで紹介される進め方
+唾を飲み込みたくなったら飲み込み、姿勢がつらければ直しましょう。静止を強調するガイドもありますが、DreamViewsの解説では、こうした動きをしてもよいと説明されています。[^wild-dreamviews]
 
-以下はコミュニティの実践としての要点であり、手順全体の有効性が確立した実験プロトコルではない。[^wild-dreamviews][^wild-mzzkc]
+### 2. 呼吸やイメージに注意を向ける
 
-### 1. 再入眠などの機会に、楽な姿勢を取る
+呼吸、数を数えること、体の感覚、入眠時に浮かぶイメージなどから、注意を向けやすいものを選びます。全部を一度に行うのではなく、自分が続けやすいものを使います。[^wild-mzzkc]
 
-ガイドには [WBTB](wbtb.html) 後や昼寝を利用する説明がある。最初の就寝時には絶対に成立しない、という条件別比較の結果ではない。
+### 3. 眠りに入る変化を見守る
 
-静止を強調する説明もある一方、DreamViews の解説には必要な姿勢調整や嚥下を認めるものもある。動いたことだけで失敗と決めつけず、不快な姿勢や我慢を必須にしない。[^wild-dreamviews]
+眠りに入るときには、像や音、浮くような感覚を経験することがあります。[^foffani-2024] 特定の感覚が現れるのを待ち続けるより、選んだ呼吸やイメージにゆるく注意を向けます。[^wild-sageous]
 
-### 2. 注意の置き方を選ぶ
+金縛りは必須の段階ではありません。音や振動など、一つの感覚だけで「もうすぐ成功する」と判断するより、夢の場面と自覚に目を向けましょう。
 
-呼吸、数を数えること、体の感覚、入眠時のイメージなどに注意を向ける方法が紹介される。これらは選択肢であり、全てを組み合わせる課題ではない。[^wild-mzzkc]
+### 4. 夢の中にいると気づく
 
-この資料では、別技法の手順を足して独自の必須コースにはしない。
+イメージが、そこにいるように感じる場面へ変わる過程がガイドで説明されています。目指すのは鮮明な像を見ることだけでなく、その場面で「これは夢だ」と分かっている状態です。[^wild-mzzkc]
 
-### 3. 移行時の体験を、成功の段階表にしない
+確かめ方として[リアリティチェック](reality-checks.html)も紹介されています。具体的な方法と、それぞれの限界はリンク先で読めます。
 
-入眠時には像、音、浮遊感などが報告されるが、どれも全員に必要な通過点ではない。金縛りも必須の段階とはしない。感覚の種類だけから睡眠段階や成功直前だと判断しない。[^foffani-2024]
+## 続けるときのコツ
 
-音や体の違和感を、すべて無害な入眠現象だと決めつけることも避ける。
+Sageousのガイドは、力まずに注意を保つことを勧めています。眠ろうとしながら細かな変化を追い続けるのではなく、楽な姿勢と軽い注意を意識する、という実践上の助言です。[^wild-sageous]
 
-### 4. 夢の場面と自覚を確かめる
+### 眠れない・怖いとき
 
-ガイドでは、イメージが場面として感じられる移行や、夢の中にいると認識する過程が説明される。鮮明な像を見ること自体と、夢だと自覚して体験することは区別する。[^wild-mzzkc]
+> 眠れなくなったり、怖さや苦痛が出たりしたら、試すのをやめて休みましょう。つらい静止や、嚥下の我慢は必要ありません。  
+> 金縛りが怖い場合は[中断と相談の目安](sleep-paralysis.html#怖さや苦痛がある場合)へ。共通の睡眠への配慮は[このサイトの根拠の読み方](../evidence-guide.html#睡眠を大切にしながら試す)にまとめています。
 
-[リアリティチェック](reality-checks.html) は実践上の確認手段として紹介されるが、鼻つまみなど一つの動作が必ず正しく判定できるとはしない。
+## 研究で分かっていること
 
-## 眠れない・怖いとき
+LaBergeの研究解説には、一時的な覚醒を挟んで明晰REM睡眠へ入った記録があります。これはWILDという入り方を確認した記録で、上の手順を試した回数に対する成功率ではありません。[^laberge-wild]
 
-ガイドにある「力まず注意を保つ」という説明は、個人の実践上の助言として読む。眠れない理由や、普通に眠った理由を、その一つで説明し尽くすものではない。[^wild-sageous]
+[Radugaの覚醒時誘発法](raduga.html)にも自己報告の研究があります。ただし、複数の技法を含む商業セミナーの記録で、対照群はありません。このページの進め方全体の効果や、他の方法との優劣は、これらの研究からは分かりません。[^raduga-2021]
 
-一般の誘発研究で再入眠時間との関連が報告されていても、それを WILD の「力み」の因果効果へ置き換えない。[^aspy-2020]
-
-苦痛や睡眠への支障があるときに続ける必要はない。[金縛りからの離脱](sleep-paralysis.html) では状態の説明と対処研究を別に扱う。指や目を強く動かせば必ず中断できる、といった保証は設けない。
-
-## 他の実践・研究との関係
-
-- [DEILD](deild.html) は覚醒直後の短い再入眠を狙う実践。WILD より成功率が高いとする比較試験は今回確認できていない。
-- [FILD](fild.html) は小さな指の動きを使う実践。
-- Raduga の覚醒時誘発法には自己報告の研究があるが、複数の技法を含む商業セミナーの記録で対照群がない。このページの手順全体や、他法より優れることを検証したものではない。[^raduga-2021]
+「体が眠り、意識だけが残る」という説明は、体験を表す比喩です。体と意識が実際に分離するという意味ではありません。研究と実践記事の違いは[共通の案内](../evidence-guide.html)で説明しています。
 
 ## 関連
 
+- [DEILD](deild.html) — 夢から覚めた直後の短い再入眠を使う
+- [FILD](fild.html) — 小さな指の動きを使う
 - [MILD](mild.html) — 夢の中で気づく意図を用いる
 - [SSILD](ssild.html) — 感覚へ順に注意を向ける
-- [金縛りからの離脱](sleep-paralysis.html) — 必須条件ではない関連体験
-- [WBTB](wbtb.html) — 中途覚醒を使う研究条件
-- [リアリティチェック](reality-checks.html) — 実践上の確認法
+- [金縛りからの離脱](sleep-paralysis.html)
 - [技法一覧](index.html)
 
 ## 参考文献
@@ -77,7 +71,5 @@ DreamViews などには複数の実践ガイドがある。注意の向け方、
 [^wild-mzzkc]: Mzzkc (2010). [Mzzkc's Comprehensive WILD Guide ↗](<https://www.dreamviews.com/wake-initiated-lucid-dreams-wild/105484-mzzkcs-comprehensive-wild-guide.html>){:target="_blank" rel="noopener noreferrer" aria-label="Mzzkc&#x27;s Comprehensive WILD Guide（新しいタブで開きます）"}.  コミュニティの手順解説（経験則）。
 
 [^foffani-2024]: Guglielmo Foffani (2024). [To be or not to be hallucinating: Implications of hypnagogic/hypnopompic experiences and lucid dreaming for brain disorders ↗](<https://doi.org/10.1093/pnasnexus/pgad442>){:target="_blank" rel="noopener noreferrer" aria-label="To be or not to be hallucinating: Implications of hypnagogic/hypnopompic experiences and lucid dreaming for brain disorders（新しいタブで開きます）"}.  査読論文・Perspective（仮説・概念整理）。
-
-[^aspy-2020]: Denholm J. Aspy (2020). [Findings From the International Lucid Dream Induction Study ↗](<https://doi.org/10.3389/fpsyg.2020.01746>){:target="_blank" rel="noopener noreferrer" aria-label="Findings From the International Lucid Dream Induction Study（新しいタブで開きます）"}. Frontiers in Psychology, 11, 1746. 査読原著論文。自宅での自己報告介入研究。
 
 [^raduga-2021]: Michael Raduga (2021). [An effective lucid dreaming method by inducing hypnopompic hallucinations ↗](<https://doi.org/10.11588/ijodr.2021.1.71170>){:target="_blank" rel="noopener noreferrer" aria-label="An effective lucid dreaming method by inducing hypnopompic hallucinations（新しいタブで開きます）"}.  査読原著・商業セミナー記録の後ろ向き分析。
