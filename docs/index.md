@@ -1,8 +1,8 @@
 ---
 layout: home-cover
-last_modified_at: "2026-10-28T23:38:04+09:00"
 nav_title: "はじめに"
 nav_order: 1
+last_modified_at: "2026-10-29T13:38:16+09:00"
 ---
 
 <a class="skip" href="#main">本文へ</a>
