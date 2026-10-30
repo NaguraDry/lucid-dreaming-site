@@ -138,3 +138,16 @@ defaults:
       nav_order: 14
       parent: "技法一覧"
       grand_parent: "実践ガイド"
+
+  - scope:
+      path: ""
+      type: home_sections
+    values:
+      layout: null
+      nav_exclude: true
+      search_exclude: true
+      sitemap: false
+# A home fragment is content for index, not an independent article.
+collections:
+  home_sections:
+    output: false
