@@ -4,11 +4,26 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% seo %}
-  <link rel="stylesheet" href="{{ '/assets/css/home-cover.css' | relative_url }}?v=20261029-compact">
+  <link rel="stylesheet" href="{{ '/assets/css/home-cover.css' | relative_url }}?v=20261030-experience-cards">
   <link rel="stylesheet" href="{{ '/assets/css/site-links.css' | relative_url }}">
   <link rel="icon" href="{{ '/favicon.ico' | relative_url }}">
 </head>
 <body class="immersive">
-{{ content }}
+<p><a class="skip" href="#main">本文へ</a></p>
+<main id="main">
+{%- assign media = site.data.media[page.hero.asset] -%}
+<section class="b-cover"><picture><source media="(max-width: 700px)" type="image/avif" srcset="{{ media.mobile.avif | relative_url }}" width="{{ media.mobile.width }}" height="{{ media.mobile.height }}"><source media="(max-width: 700px)" type="image/webp" srcset="{{ media.mobile.webp | relative_url }}" width="{{ media.mobile.width }}" height="{{ media.mobile.height }}"><source media="(max-width: 700px)" srcset="{{ media.mobile.jpeg | relative_url }}" width="{{ media.mobile.width }}" height="{{ media.mobile.height }}"><source type="image/avif" srcset="{{ media.desktop.avif | relative_url }}"><source type="image/webp" srcset="{{ media.desktop.webp | relative_url }}"><img src="{{ media.desktop.jpeg | relative_url }}" width="{{ media.desktop.width }}" height="{{ media.desktop.height }}" decoding="async" fetchpriority="high" alt="{{ page.hero.alt | escape }}"></picture><div class="b-cover-copy"><p class="eyebrow">{{ page.eyebrow | escape }}</p><h1>{% for line in page.heading_lines %}{{ line | escape }}{% unless forloop.last %}<br>{% endunless %}{% endfor %}</h1>{{ content }}</div></section>
+{%- for key in page.home_sections -%}
+  {%- assign block = site.home_sections | where: "section_id", key | first -%}
+  {%- case key -%}
+    {%- when "experience" -%}{% include home/experience.html block=block %}
+    {%- when "methods" -%}{% include home/methods.html block=block %}
+    {%- when "about" -%}{% include home/about.html block=block %}
+  {%- endcase -%}
+{%- endfor -%}
+</main>
+{%- assign author_section = site.home_sections | where: "section_id", "about" | first -%}
+<footer><p>{{ site.title | escape }}</p><div>{% for link in page.footer_links %}<a href="{{ link.url | relative_url }}">{{ link.label | escape }} <span aria-hidden="true">↗</span></a>{% endfor %}</div><small>{{ author_section.signature | escape }}</small>{% if page.last_modified_at %}<p id="page-updated">更新日：<time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{{ page.last_modified_at | date: "%Y年%m月%d日" }}</time></p>{% endif %}</footer>
 </body>
 </html>
+

@@ -1,0 +1,3 @@
+{%- assign section = include.block -%}
+<section class="b-invitation section" id="home-experience" aria-labelledby="home-experience-title"><p class="eyebrow">{{ section.eyebrow | escape }}</p><h2 id="home-experience-title">{% for line in section.heading_lines %}{{ line | escape }}{% unless forloop.last %}<br>{% endunless %}{% endfor %}</h2><div>{{ section.content | markdownify }}<nav class="experience-links" aria-label="体験について読む">{% for action in section.actions %}<a class="experience-card" href="{{ action.url | relative_url }}"><span class="experience-card-title">{{ action.label | escape }} <span aria-hidden="true">↗</span></span><span class="experience-card-description">{{ action.description | escape }}</span></a>{% endfor %}</nav></div></section>
+

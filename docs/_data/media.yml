@@ -1,0 +1,13 @@
+home-cover:
+  desktop:
+    avif: /assets/images/hero-watercolor-wide.avif
+    webp: /assets/images/hero-watercolor-wide.webp
+    jpeg: /assets/images/hero-watercolor-wide.jpg
+    width: 2172
+    height: 724
+  mobile:
+    avif: /assets/images/hero-watercolor-mobile.avif
+    webp: /assets/images/hero-watercolor-mobile.webp
+    jpeg: /assets/images/hero-watercolor-mobile.jpg
+    width: 1672
+    height: 941
