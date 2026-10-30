@@ -126,3 +126,15 @@
  .article-shell .breadcrumb-tools .site-button { display:flex;align-items:center;justify-content:center;flex:0 0 44px;width:44px;height:44px;min-width:44px;min-height:44px;margin:0;padding:10px;background:#263c37;border:1px solid #82978c;border-radius:6px;color:#faf9ed; }
  .article-shell .site-nav.nav-open { position:fixed;left:0;right:0;top:var(--menu-panel-top,168px);max-height:calc(100vh - var(--menu-panel-top,168px));overflow-y:auto;background:#263c37;box-shadow:0 10px 24px #263c3730;border-top:1px solid #62746b; }
 }
+
+/* Quiet inline artwork accompanying the article. */
+.dream-illustration {
+  width: 100%;
+  max-width: 36rem;
+  margin: 1.25rem auto 1.5rem;
+}
+.dream-illustration img {
+  display: block;
+  width: 100%;
+  height: auto;
+}

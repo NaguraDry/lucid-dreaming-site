@@ -37,9 +37,6 @@ layout: table_wrappers
           {% endif %}
         </main>
         {% include components/footer.html %}
-        {% if page.last_modified_at %}
-          <p class="article-updated" id="page-updated">更新日：<time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{{ page.last_modified_at | date: "%Y年%m月%d日" }}</time></p>
-        {% endif %}
       </div>
     </div>
     {% if site.search_enabled != false %}

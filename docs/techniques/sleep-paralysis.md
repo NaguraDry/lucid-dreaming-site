@@ -1,5 +1,5 @@
 ---
-last_modified_at: "2026-10-28T18:59:02+09:00"
+last_modified_at: "2026-10-30T18:27:07+09:00"
 ---
 
 # 金縛りからの離脱
@@ -14,10 +14,10 @@ last_modified_at: "2026-10-28T18:59:02+09:00"
 
 怖さや苦痛がなく、試してみたいときには、次のような身体のイメージが使われています。
 
-- **ローリング**：横へ寝返りを打つような感覚を思い描く。VIPのまとめでは、ゆっくり回転するイメージ式ローリングが紹介されています。[^vip-sp]
+- **[ローリング](rolling.html)**：横へ寝返りを打つような感覚を思い描く。VIPのまとめでは、ゆっくり回転するイメージ式ローリングが紹介されています。[^vip-sp]
 - **浮上**：体が軽くなり、上へ浮く感覚を思い描く。同じまとめの浮遊法にあたります。[^vip-sp]
-- **手足から動かす**：手足が動く感覚を思い描く。みるみの実践記事では、指先から動かす範囲を広げる方法が紹介されています。[^mirumi]
-- **起き上がる**：上体を起こす感覚を思い描く。これも、みるみの記事にある実践例です。[^mirumi]
+- **手足から動かす**：夢の中の身体を思い浮かべ、指先や足先を小さく動かす感覚から、腕を動かす感覚へ進む。LD4allに投稿された実践例です。[^ld4all-limbs]
+- **起き上がる**：夢の中の腕を動かしていると感じたら、その身体で上体を起こす感覚を試す。同じ投稿で紹介されています。[^ld4all-limbs]
 
 **ここで試すのは、体が動くイメージです。実際にベッドから転がり落ちたり、勢いをつけて起き上がったりしないでください。** VIPの資料には力を込める別のローリング法も載っていますが、このページではイメージを使う方法を紹介しています。
 
@@ -50,6 +50,7 @@ Denis & Poerioの自己報告による研究では、金縛りと明晰夢の関
 
 ## 関連
 
+- [ローリング](rolling.html) — 横へ寝返りを打つ感覚を使う方法
 - [WILD](wild.html) — 覚醒から明晰夢への移行
 - [DEILD](deild.html) — 覚醒直後の再入眠
 - [リアリティチェック](reality-checks.html) — 夢の中かどうかを確かめる
@@ -58,8 +59,6 @@ Denis & Poerioの自己報告による研究では、金縛りと明晰夢の関
 ## 参考文献
 
 外部の出典リンク（↗）は新しいタブで開きます。脚注末尾の戻りリンクで本文へ戻れます。
-
-[^mirumi]: みるみ (2018). [【歴 8 年】体外離脱(幽体離脱) のやり方・コツ・概要を徹底的にまとめたよ ↗](<https://mirumi.me/out-of-body/>){:target="_blank" rel="noopener noreferrer" aria-label="【歴 8 年】体外離脱(幽体離脱) のやり方・コツ・概要を徹底的にまとめたよ（新しいタブで開きます）"}.  個人の実践記事（経験則）。
 
 [^denis-2017]: [Denis & Poerio (2017): Terror and bliss? ↗](<https://pmc.ncbi.nlm.nih.gov/articles/PMC5245115/>){:target="_blank" rel="noopener noreferrer" aria-label="Denis & Poerio (2017): Terror and bliss?（新しいタブで開きます）"}. 査読原著・自己報告による関連研究。金縛りと明晰夢の共通点と違いを扱う。
 
@@ -72,3 +71,5 @@ Denis & Poerioの自己報告による研究では、金縛りと明晰夢の関
 [^vip-sp]: 「最近幽体離脱にはまった まとめ」[金縛り解除法 ↗](<https://w.atwiki.jp/wiki13_ridatu/pages/325.html>){:target="_blank" rel="noopener noreferrer"}。コミュニティ資料。浮遊法・イメージ式ローリング法など。
 
 [^ld4all-sp]: Siiw (2016). [Sleep Paralysis article ↗](<https://community.ld4all.com/t/sleep-paralysis-article/40556>){:target="_blank" rel="noopener noreferrer"}。LD4allの実践記事。「Sleep paralysis and lucid dreaming」節。
+
+[^ld4all-limbs]: Kit (2007). [Sleep Paralysis LD - Some interesting experiences・投稿2 ↗](<https://community.ld4all.com/t/sleep-paralysis-ld-some-interesting-experiences/24466/2>){:target="_blank" rel="noopener noreferrer"}。LD4allで、夢の身体の指先・足先から腕を動かし、起き上がる流れを提案した投稿。
