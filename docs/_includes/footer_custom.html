@@ -1,3 +1,3 @@
 {% if page.last_modified_at %}
-<p id="page-updated" class="text-grey-dk-100 fs-3">更新日：<time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{{ page.last_modified_at | date: "%Y年%m月%d日" }}</time></p>
+<p id="page-updated" class="article-updated">更新日：<time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{{ page.last_modified_at | date: "%Y年%m月%d日" }}</time></p>
 {% endif %}
