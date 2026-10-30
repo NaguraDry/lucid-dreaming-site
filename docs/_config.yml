@@ -17,8 +17,8 @@ gh_edit_link: false
 back_to_top: true
 back_to_top_text: ページの先頭へ
 # Decorative artwork: wide composition on desktop, original composition on mobile.
-hero_desktop: /assets/images/hero-watercolor-wide.png
-hero_mobile: /assets/images/hero-watercolor-mobile.png
+hero_desktop: /assets/images/hero-watercolor-wide.jpg
+hero_mobile: /assets/images/hero-watercolor-mobile.jpg
 defaults:
   - scope:
       path: ""
@@ -26,7 +26,7 @@ defaults:
       layout: default
       has_toc: false
       image:
-        path: /assets/images/hero-watercolor-mobile.png
+        path: /assets/images/hero-watercolor-mobile.jpg
         width: 1672
         height: 941
         alt: "湖と木陰のベンチ、本を描いた水彩画"
