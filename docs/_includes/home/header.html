@@ -1,0 +1,31 @@
+<header class="home-header">
+  {% if page.brand_lines.size > 0 %}
+  <a class="home-brand" href="{{ '/' | relative_url }}">{% for line in page.brand_lines %}<span>{{ line | escape }}</span>{% endfor %}</a>
+  {% endif %}
+  <nav class="home-navigation" aria-label="サイト内の案内">
+    {% if page.header_links.size > 0 %}
+    <div class="home-primary-links">
+      {% for link in page.header_links %}<a href="{{ link.url | relative_url }}">{{ link.label | escape }}</a>{% endfor %}
+    </div>
+    {% endif %}
+    {% if page.menu_groups.size > 0 %}
+    <details class="home-menu">
+      <summary aria-controls="home-site-menu"><span class="menu-toggle-icon" aria-hidden="true"></span>{{ page.menu_label | default: 'メニュー' | escape }} <span class="menu-chevron" aria-hidden="true">⌄</span></summary>
+      <div class="home-menu-panel" id="home-site-menu">
+        {% for group in page.menu_groups %}
+        <div class="home-menu-group">
+          <p class="home-menu-group-title">{{ group.label | escape }}</p>
+          {% for link in group.links %}<a href="{{ link.url | relative_url }}">{{ link.label | escape }}</a>{% endfor %}
+        </div>
+        {% endfor %}
+        {% if page.menu_feature %}
+        <a class="home-menu-feature" href="{{ page.menu_feature.url | relative_url }}">
+          <span>{{ page.menu_feature.label | escape }} <span aria-hidden="true">↗</span></span>
+          <small>{{ page.menu_feature.description | escape }}</small>
+        </a>
+        {% endif %}
+      </div>
+    </details>
+    {% endif %}
+  </nav>
+</header>

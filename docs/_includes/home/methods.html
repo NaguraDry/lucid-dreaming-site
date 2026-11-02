@@ -1,3 +1,18 @@
 {%- assign section = include.block -%}
-<section class="b-path section" id="home-methods" aria-labelledby="home-methods-title"><div><p class="eyebrow">{{ section.eyebrow | escape }}</p><h2 id="home-methods-title">{% for line in section.heading_lines %}{{ line | escape }}{% unless forloop.last %}<br>{% endunless %}{% endfor %}</h2><p>{% for line in section.lead_lines %}{{ line | escape }}{% unless forloop.last %}<br>{% endunless %}{% endfor %}</p></div><div class="method-entry">{% for action in section.actions %}<a class="pill" href="{{ action.url | relative_url }}">{{ action.label | escape }} <span aria-hidden="true">↗</span></a>{% endfor %}{{ section.content | markdownify }}</div></section>
-
+<section class="b-path section" id="home-methods" aria-labelledby="home-methods-title">
+  <div class="section-intro">
+    <p class="eyebrow">{{ section.eyebrow | escape }}</p>
+    <h2 id="home-methods-title">{% for line in section.heading_lines %}<span class="heading-line">{{ line | escape }}</span>{% endfor %}</h2>
+    <p>{% for line in section.lead_lines %}{{ line | escape }}{% unless forloop.last %}<br>{% endunless %}{% endfor %}</p>
+  </div>
+  <nav class="method-cards" aria-label="試してみたい方法の手順">
+    {% for action in section.actions %}
+    <a class="method-card" href="{{ action.url | relative_url }}">
+      <span class="method-card-title">{{ action.label | escape }}</span>
+      {% if action.description %}<span class="method-card-description">{{ action.description | escape }}</span>{% endif %}
+      <span class="card-arrow" aria-hidden="true">↗</span>
+    </a>
+    {% endfor %}
+  </nav>
+  <div class="method-notes">{{ section.content | markdownify }}</div>
+</section>

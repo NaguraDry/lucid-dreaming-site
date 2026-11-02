@@ -97,10 +97,9 @@ defaults:
   - scope:
       path: "techniques/reality-checks.md"
     values:
-      title: "リアリティチェック（RT）"
+      title: "リアリティチェック"
       nav_order: 9
       parent: "技法一覧"
-      nav_exclude: true
       grand_parent: "実践ガイド"
   - scope:
       path: "techniques/sleep-paralysis.md"
