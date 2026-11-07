@@ -2,7 +2,7 @@
 title: "偽りの目覚め（偽覚醒）"
 parent: "実践ガイド"
 nav_order: 4
-last_modified_at: "2026-10-28T19:09:33+09:00"
+last_modified_at: "2026-11-05T07:51:48+09:00"
 ---
 
 # 偽りの目覚め（偽覚醒）
@@ -49,7 +49,7 @@ Mainieriら（2021）は、5人から金縛り5件と偽覚醒2件を記録し�
 
 - [リアリティチェック](techniques/reality-checks.html) — 夢かどうかを確かめる工夫と、その研究。
 - [金縛り](techniques/sleep-paralysis.html) — 体が動かないと感じる体験と、怖さがあるときの対応。
-- [DEILD](techniques/deild.html) — 実際に目覚めた直後、明晰夢へ戻ることを目指す方法。
+- [DEILD（覚醒時不動法）](techniques/deild.html) — 実際に目覚めた直後、明晰夢へ戻ることを目指す方法。
 - [技法一覧](techniques/index.html)
 
 ## 参考文献

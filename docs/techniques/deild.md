@@ -1,12 +1,13 @@
 ---
-last_modified_at: "2026-11-02T16:26:20+09:00"
+last_modified_at: "2026-11-05T07:51:48+09:00"
 ---
 
-# DEILD（目覚めた直後に戻る）
+# DEILD（覚醒時不動法）
+{: id="deild目覚めた直後に戻る"}
 
 > 夢から目覚めた直後の再入眠を利用し、夢だという自覚を保って戻ることを狙う実践。英語では Dream Exit Induced Lucid Dream、Dream Exit Initiated Lucid Dream などの表記がある。[^deild-original][^deild-wiki]
 
-[WILD](wild.html) 系の実践として紹介されるが、両者の成功率の優劣を示す比較試験は今回確認できていない。短い移行を狙うことと、誰でも短時間で成功することは別である。
+[WILD（自覚維持法）](wild.html)系の実践として紹介されるが、両者の成功率の優劣を示す比較試験は今回確認できていない。短い移行を狙うことと、誰でも短時間で成功することは別である。
 
 ## 手順の由来
 
@@ -47,9 +48,9 @@ DEILD をこの名称の単独手順として検証した査読比較試験は�
 
 ## 関連
 
-- [WILD](wild.html) — 覚醒から夢への移行を扱う
+- [WILD（自覚維持法）](wild.html) — 覚醒から夢への移行を扱う
 - [夢日記](dream-journal.html) — 思い出した夢を記録する
-- [FILD](fild.html) — 指の動きを使う別の実践
+- [FILD（指先微動法）](fild.html) — 指の動きを使う別の実践
 - [リアリティチェック](reality-checks.html) — 夢かどうかを確かめるための実践
 - [技法一覧](index.html)
 

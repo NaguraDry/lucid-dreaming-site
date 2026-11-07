@@ -68,7 +68,7 @@ defaults:
   - scope:
       path: "techniques/deild.md"
     values:
-      title: "DEILD（目覚めた直後に戻る）"
+      title: "DEILD（覚醒時不動法）"
       nav_order: 5
       parent: "技法一覧"
       grand_parent: "実践ガイド"
@@ -82,7 +82,7 @@ defaults:
   - scope:
       path: "techniques/fild.md"
     values:
-      title: "FILD（指を小さく動かす）"
+      title: "FILD（指先微動法）"
       nav_order: 7
       parent: "技法一覧"
       nav_exclude: true
@@ -90,7 +90,7 @@ defaults:
   - scope:
       path: "techniques/mild.md"
     values:
-      title: "MILD（記銘による誘発）"
+      title: "MILD（夢中自覚法）"
       nav_order: 8
       parent: "技法一覧"
       grand_parent: "実践ガイド"
@@ -111,14 +111,14 @@ defaults:
   - scope:
       path: "techniques/ssild.md"
     values:
-      title: "SSILD（感覚を巡る）"
+      title: "SSILD（感覚循環法）"
       nav_order: 11
       parent: "技法一覧"
       grand_parent: "実践ガイド"
   - scope:
       path: "techniques/tlr.md"
     values:
-      title: "TLR（感覚キュー）"
+      title: "TLR"
       nav_order: 12
       parent: "技法一覧"
       nav_exclude: true
@@ -126,14 +126,14 @@ defaults:
   - scope:
       path: "techniques/wbtb.md"
     values:
-      title: "WBTB（一度起きて寝直す）"
+      title: "WBTB（二度寝法）"
       nav_order: 13
       parent: "技法一覧"
       grand_parent: "実践ガイド"
   - scope:
       path: "techniques/wild.md"
     values:
-      title: "WILD（覚醒から夢へ移る）"
+      title: "WILD（自覚維持法）"
       nav_order: 14
       parent: "技法一覧"
       grand_parent: "実践ガイド"
