@@ -10,9 +10,7 @@ hero:
   asset: home-cover
   alt: 木陰のベンチから、湖と遠くの街を望む水彩画
 hero_actions:
-- label: 試し方を見てみる
-  url: /#home-methods
-- label: どんな体験か知る
+- label: 幽体離脱とは？
   url: /what-is-ridatsu.html
 header_links:
 - label: 方法を探す
@@ -60,7 +58,7 @@ footer_links:
   url: /communities.html
 - label: 根拠の読み方
   url: /evidence-guide.html
-last_modified_at: "2026-11-02T16:26:20+09:00"
+last_modified_at: "2026-11-07T10:14:35+09:00"
 ---
 
 明晰夢の研究と海外の実践をもとに、離脱の方法と楽しみ方を紹介します。
