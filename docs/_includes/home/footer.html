@@ -1,0 +1,7 @@
+{%- assign author_section = site.home_sections | where: "section_id", "about" | first -%}
+<footer><p>{{ site.title | escape }}</p><div>{% for link in page.footer_links %}<a
+  href="{{ link.url | relative_url }}">{{ link.label | escape }} <span
+  aria-hidden="true">↗</span></a>{% endfor %}</div><small>{{ author_section.signature | escape }}</small>{% if page.last_modified_at %}<p
+  id="page-updated">更新日：<time
+  datetime="{{ page.last_modified_at | date_to_xmlschema }}">{{ page.last_modified_at | date: "%Y年%m月%d日" }}</time></p>{% endif %}</footer>
+  

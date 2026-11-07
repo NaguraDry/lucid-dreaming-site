@@ -13,10 +13,7 @@
 <a class="skip" href="#main">本文へ</a>
 {% include home/header.html %}
 <main id="main">
-{%- assign media = site.data.media[page.hero.asset] -%}
-<section class="b-cover"><picture><source media="(max-width: 700px)" type="image/avif" srcset="{{ media.mobile.avif | relative_url }}" width="{{ media.mobile.width }}" height="{{ media.mobile.height }}"><source media="(max-width: 700px)" type="image/webp" srcset="{{ media.mobile.webp | relative_url }}" width="{{ media.mobile.width }}" height="{{ media.mobile.height }}"><source media="(max-width: 700px)" srcset="{{ media.mobile.jpeg | relative_url }}" width="{{ media.mobile.width }}" height="{{ media.mobile.height }}"><source type="image/avif" srcset="{{ media.desktop.avif | relative_url }}"><source type="image/webp" srcset="{{ media.desktop.webp | relative_url }}"><img src="{{ media.desktop.jpeg | relative_url }}" width="{{ media.desktop.width }}" height="{{ media.desktop.height }}" decoding="async" fetchpriority="high" alt="{{ page.hero.alt | escape }}"></picture><div class="b-cover-copy">{% if page.eyebrow %}<p class="eyebrow">{{ page.eyebrow | escape }}</p>{% endif %}<h1>{% for line in page.heading_lines %}{{ line | escape }}{% unless forloop.last %}<br>{% endunless %}{% endfor %}</h1><div class="hero-prose">{{ content }}</div>
-{% if page.hero_actions.size > 0 %}<nav class="hero-actions" aria-label="ここから読み始める">{% for action in page.hero_actions %}<a class="{% if forloop.first %}pill{% else %}text-link{% endif %}" href="{{ action.url | relative_url }}">{{ action.label | escape }} <span aria-hidden="true">{% if action.url contains '#' %}↓{% else %}↗{% endif %}</span></a>{% endfor %}</nav>{% endif %}
-</div></section>
+{%- include home/hero.html -%}
 {%- for key in page.home_sections -%}
   {%- assign block = site.home_sections | where: "section_id", key | first -%}
   {%- case key -%}
@@ -26,8 +23,7 @@
   {%- endcase -%}
 {%- endfor -%}
 </main>
-{%- assign author_section = site.home_sections | where: "section_id", "about" | first -%}
-<footer><p>{{ site.title | escape }}</p><div>{% for link in page.footer_links %}<a href="{{ link.url | relative_url }}">{{ link.label | escape }} <span aria-hidden="true">↗</span></a>{% endfor %}</div><small>{{ author_section.signature | escape }}</small>{% if page.last_modified_at %}<p id="page-updated">更新日：<time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{{ page.last_modified_at | date: "%Y年%m月%d日" }}</time></p>{% endif %}</footer>
+{%- include home/footer.html %}
 </body>
 </html>
 

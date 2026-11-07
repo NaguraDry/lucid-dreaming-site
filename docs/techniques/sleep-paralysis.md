@@ -1,5 +1,5 @@
 ---
-last_modified_at: "2026-10-30T18:27:07+09:00"
+last_modified_at: "2026-11-05T07:51:48+09:00"
 ---
 
 # 金縛りからの離脱
@@ -51,8 +51,8 @@ Denis & Poerioの自己報告による研究では、金縛りと明晰夢の関
 ## 関連
 
 - [ローリング](rolling.html) — 横へ寝返りを打つ感覚を使う方法
-- [WILD](wild.html) — 覚醒から明晰夢への移行
-- [DEILD](deild.html) — 覚醒直後の再入眠
+- [WILD（自覚維持法）](wild.html) — 覚醒から明晰夢への移行
+- [DEILD（覚醒時不動法）](deild.html) — 覚醒直後の再入眠
 - [リアリティチェック](reality-checks.html) — 夢の中かどうかを確かめる
 - [技法一覧](index.html)
 

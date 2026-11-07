@@ -1,8 +1,9 @@
 ---
-last_modified_at: "2026-11-02T16:26:20+09:00"
+last_modified_at: "2026-11-05T07:51:48+09:00"
 ---
 
-# SSILD（感覚を巡る）
+# SSILD（感覚循環法）
+{: id="ssild感覚を巡る"}
 
 Senses Initiated Lucid Dream。視覚・聴覚・体感に順に注意を向けるサイクルを使う、コミュニティ発の技法。査読研究でも検討されているが、追加の再現研究が必要とされる。[^tan-2023]
 
@@ -63,9 +64,9 @@ Aspy 2020 の研究では、就寝約5時間後に起き、**短いサイクル4
 
 ## 関連
 
-- [MILD](mild.html) — 次の夢で気づく意図と想像を使う技法
-- [WBTB](wbtb.html) — 再入眠を利用する方法。組み合わせる原典の条件を確認する
-- [WILD](wild.html)・[DEILD](deild.html) — 覚醒から夢への移行を扱う実践
+- [MILD（夢中自覚法）](mild.html) — 次の夢で気づく意図と想像を使う技法
+- [WBTB（二度寝法）](wbtb.html) — 再入眠を利用する方法。組み合わせる原典の条件を確認する
+- [WILD（自覚維持法）](wild.html)・[DEILD（覚醒時不動法）](deild.html) — 覚醒から夢への移行を扱う実践
 - [金縛りからの離脱](sleep-paralysis.html) — 動けない体験と夢への移行を区別して読む
 - [夢日記](dream-journal.html) — 経験を記録する方法
 - [技法一覧](index.html)

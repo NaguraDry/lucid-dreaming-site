@@ -1,0 +1,37 @@
+{%- assign media = site.data.media[page.hero.asset] -%}
+<section
+  class="b-cover"><picture><source
+  media="(max-width: 700px)"
+  type="image/avif"
+  srcset="{{ media.mobile.avif | relative_url }}"
+  width="{{ media.mobile.width }}"
+  height="{{ media.mobile.height }}"><source
+  media="(max-width: 700px)"
+  type="image/webp"
+  srcset="{{ media.mobile.webp | relative_url }}"
+  width="{{ media.mobile.width }}"
+  height="{{ media.mobile.height }}"><source
+  media="(max-width: 700px)"
+  srcset="{{ media.mobile.jpeg | relative_url }}"
+  width="{{ media.mobile.width }}"
+  height="{{ media.mobile.height }}"><source
+  type="image/avif"
+  srcset="{{ media.desktop.avif | relative_url }}"><source
+  type="image/webp"
+  srcset="{{ media.desktop.webp | relative_url }}"><img
+  src="{{ media.desktop.jpeg | relative_url }}"
+  width="{{ media.desktop.width }}"
+  height="{{ media.desktop.height }}"
+  decoding="async"
+  fetchpriority="high"
+  alt="{{ page.hero.alt | escape }}"></picture><div
+  class="b-cover-copy">{% if page.eyebrow %}<p
+  class="eyebrow">{{ page.eyebrow | escape }}</p>{% endif %}<h1>{% for line in page.heading_lines %}{{ line | escape }}{% unless forloop.last %}<br>{% endunless %}{% endfor %}</h1><div
+  class="hero-prose">{{ content }}</div>
+{% if page.hero_actions.size > 0 %}<nav
+  class="hero-actions"
+  aria-label="ここから読み始める">{% for action in page.hero_actions %}<a
+  class="{% if forloop.first %}pill{% else %}text-link{% endif %}"
+  href="{{ action.url | relative_url }}">{{ action.label | escape }} <span
+  aria-hidden="true">{% if action.url contains '#' %}↓{% else %}↗{% endif %}</span></a>{% endfor %}</nav>{% endif %}
+</div></section>

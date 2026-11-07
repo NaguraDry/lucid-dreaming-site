@@ -1,0 +1,8 @@
+{% assign author_note_content = include.content | default: '' | strip %}
+{% if author_note_content != empty %}
+<aside class="author-note" aria-label="著者からのひとこと">
+  <p class="author-note__byline"><span class="author-note__icon" aria-hidden="true"><img src="{{ '/assets/images/editorial-bulb.png' | relative_url }}" alt="" width="118" height="160"></span><span>名倉ドライからひとこと</span></p>
+  {% if include.title %}<p class="author-note__title">{{ include.title | escape }}</p>{% endif %}
+  <div class="author-note__content">{{ author_note_content | markdownify }}</div>
+</aside>
+{% endif %}

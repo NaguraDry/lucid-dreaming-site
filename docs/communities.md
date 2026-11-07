@@ -1,7 +1,7 @@
 ---
 title: "国内外のコミュニティと資料"
 nav_exclude: true
-last_modified_at: "2026-10-28T22:42:05+09:00"
+last_modified_at: "2026-11-05T07:51:48+09:00"
 ---
 
 # 国内外のコミュニティと資料
@@ -60,7 +60,7 @@ VIP発祥の離脱コミュニティの体験談、手順、「名倉」や「�
 
 **英語／研究者・研究資料**
 
-Stephen LaBergeが設立した研究所です。このサイトでは、離脱と明晰夢の関連研究を[トップページ](index.html)で、WILDの説明や睡眠中の生理記録を[WILDの記事](techniques/wild.html)で参考にしています。[離脱した後](after-entry.html)で紹介した手こすり・回転の比較報告も、同研究所の資料です。
+Stephen LaBergeが設立した研究所です。このサイトでは、離脱と明晰夢の関連研究を[トップページ](index.html)で、WILDの説明や睡眠中の生理記録を[WILD（自覚維持法）の記事](techniques/wild.html)で参考にしています。[離脱した後](after-entry.html)で紹介した手こすり・回転の比較報告も、同研究所の資料です。
 
 [研究所の紹介を読む ↗](<https://www.lucidity.com/info.html>){:target="_blank" rel="noopener noreferrer" aria-label="研究所の紹介を読む（新しいタブで開きます）"}。各記事の出典から、参考にした資料へ進めます。
 
@@ -68,7 +68,7 @@ Stephen LaBergeが設立した研究所です。このサイトでは、離脱�
 
 **英語／考案者ブログ・技法の原典**
 
-[SSILDの記事](techniques/ssild.html)で、2013年版の公式手順を参考にしています。視覚・聴覚・身体感覚へ順に注意を向けるサイクルや、その回数・時間、力まずに注意を向けるやり方の参照元です。
+[SSILD（感覚循環法）の記事](techniques/ssild.html)で、2013年版の公式手順を参考にしています。視覚・聴覚・身体感覚へ順に注意を向けるサイクルや、その回数・時間、力まずに注意を向けるやり方の参照元です。
 
 [SSILD公式チュートリアルを読む ↗](<https://cosmiciron.blogspot.com/2013/01/senses-initiated-lucid-dream-ssild_16.html>){:target="_blank" rel="noopener noreferrer" aria-label="SSILD公式チュートリアルを読む（新しいタブで開きます）"}。考案者自身による手順の説明として紹介しています。
 
