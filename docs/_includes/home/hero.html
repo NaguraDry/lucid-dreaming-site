@@ -31,7 +31,7 @@
 {% if page.hero_actions.size > 0 %}<nav
   class="hero-actions"
   aria-label="ここから読み始める">{% for action in page.hero_actions %}<a
-  class="{% if forloop.first %}pill{% else %}text-link{% endif %}"
+  class="text-link"
   href="{{ action.url | relative_url }}">{{ action.label | escape }} <span
   aria-hidden="true">{% if action.url contains '#' %}↓{% else %}↗{% endif %}</span></a>{% endfor %}</nav>{% endif %}
 </div></section>
